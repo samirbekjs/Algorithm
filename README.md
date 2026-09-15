@@ -396,4 +396,4 @@ Jami yechimlar: **391**
 | M011A | Direktor tashrifi | python3 | [2540006](https://robocontest.uz/attempts/2540006) | `M011A_Direktor_tashrifi.py` |
 | M106B | Katta-kichik | python3 | [2539998](https://robocontest.uz/attempts/2539998) | `M106B_Katta-kichik.py` |
 
-Yechimlar RoboContest'dagi accepted Python attemptlardan olindi.
+Yechimlar robocontest.uz/profile/pianino_17/ dan ya'ni Samirbek Jabborov tomonidan yozilgan.
