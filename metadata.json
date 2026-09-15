@@ -1,0 +1,3912 @@
+[
+  {
+    "attempt_id": 9816666,
+    "task_number": "R078A",
+    "task_title": "HTTS",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-12-28T16:08:54.000000Z",
+    "url": "https://robocontest.uz/attempts/9816666",
+    "file": "R078A_HTTS.py"
+  },
+  {
+    "attempt_id": 8955171,
+    "task_number": "M004D",
+    "task_title": "Uchburchak balandligi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-24T05:11:58.000000Z",
+    "url": "https://robocontest.uz/attempts/8955171",
+    "file": "M004D_Uchburchak_balandligi.py"
+  },
+  {
+    "attempt_id": 8949193,
+    "task_number": "0847",
+    "task_title": "Chess",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-23T16:09:48.000000Z",
+    "url": "https://robocontest.uz/attempts/8949193",
+    "file": "0847_Chess.py"
+  },
+  {
+    "attempt_id": 8869938,
+    "task_number": "M007B",
+    "task_title": "Bayroq",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-18T06:01:52.000000Z",
+    "url": "https://robocontest.uz/attempts/8869938",
+    "file": "M007B_Bayroq.py"
+  },
+  {
+    "attempt_id": 8840530,
+    "task_number": "R050B",
+    "task_title": "Shoshilish kerak!",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-15T12:17:30.000000Z",
+    "url": "https://robocontest.uz/attempts/8840530",
+    "file": "R050B_Shoshilish_kerak!.py"
+  },
+  {
+    "attempt_id": 8827272,
+    "task_number": "M017B",
+    "task_title": "Bobo bilan nabira",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-14T12:12:17.000000Z",
+    "url": "https://robocontest.uz/attempts/8827272",
+    "file": "M017B_Bobo_bilan_nabira.py"
+  },
+  {
+    "attempt_id": 8778449,
+    "task_number": "R012B",
+    "task_title": "Funksiya",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-09T08:15:03.000000Z",
+    "url": "https://robocontest.uz/attempts/8778449",
+    "file": "R012B_Funksiya.py"
+  },
+  {
+    "attempt_id": 8767384,
+    "task_number": "R007C",
+    "task_title": "Fibonacci – oxirgi raqam",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-08T13:27:13.000000Z",
+    "url": "https://robocontest.uz/attempts/8767384",
+    "file": "R007C_Fibonacci_–_oxirgi_raqam.py"
+  },
+  {
+    "attempt_id": 8767380,
+    "task_number": "R006E",
+    "task_title": "Fibonacci EKUB",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-08T13:26:43.000000Z",
+    "url": "https://robocontest.uz/attempts/8767380",
+    "file": "R006E_Fibonacci_EKUB.py"
+  },
+  {
+    "attempt_id": 8767371,
+    "task_number": "A0085",
+    "task_title": "Naqshlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-08T13:25:30.000000Z",
+    "url": "https://robocontest.uz/attempts/8767371",
+    "file": "A0085_Naqshlar.py"
+  },
+  {
+    "attempt_id": 8767346,
+    "task_number": "0509",
+    "task_title": "Tic Tac Toe #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-08T13:20:24.000000Z",
+    "url": "https://robocontest.uz/attempts/8767346",
+    "file": "0509_Tic_Tac_Toe_#2.py"
+  },
+  {
+    "attempt_id": 8767306,
+    "task_number": "0532",
+    "task_title": "Egizak tub sonlar #A",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-08T13:14:31.000000Z",
+    "url": "https://robocontest.uz/attempts/8767306",
+    "file": "0532_Egizak_tub_sonlar_#A.py"
+  },
+  {
+    "attempt_id": 8753234,
+    "task_number": "0569",
+    "task_title": "PQ7+",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-10-07T13:43:17.000000Z",
+    "url": "https://robocontest.uz/attempts/8753234",
+    "file": "0569_PQ7+.py"
+  },
+  {
+    "attempt_id": 8624112,
+    "task_number": "0511",
+    "task_title": "Eng katta son #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-09-22T06:04:30.000000Z",
+    "url": "https://robocontest.uz/attempts/8624112",
+    "file": "0511_Eng_katta_son_#2.py"
+  },
+  {
+    "attempt_id": 8381991,
+    "task_number": "R053A",
+    "task_title": "Tublar yigʻindisi",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2025-05-19T09:51:39.000000Z",
+    "url": "https://robocontest.uz/attempts/8381991",
+    "file": "R053A_Tublar_yigʻindisi.py"
+  },
+  {
+    "attempt_id": 8379750,
+    "task_number": "R006B",
+    "task_title": "Integer",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-18T12:03:35.000000Z",
+    "url": "https://robocontest.uz/attempts/8379750",
+    "file": "R006B_Integer.py"
+  },
+  {
+    "attempt_id": 8306692,
+    "task_number": "M023B",
+    "task_title": "O’chirish #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-07T04:05:45.000000Z",
+    "url": "https://robocontest.uz/attempts/8306692",
+    "file": "M023B_O’chirish_#2.py"
+  },
+  {
+    "attempt_id": 8297266,
+    "task_number": "R085B",
+    "task_title": "Kuchli jamoa kerak",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-06T05:41:27.000000Z",
+    "url": "https://robocontest.uz/attempts/8297266",
+    "file": "R085B_Kuchli_jamoa_kerak.py"
+  },
+  {
+    "attempt_id": 8297238,
+    "task_number": "0954",
+    "task_title": "MOD % 7",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-06T05:39:31.000000Z",
+    "url": "https://robocontest.uz/attempts/8297238",
+    "file": "0954_MOD_%_7.py"
+  },
+  {
+    "attempt_id": 8297212,
+    "task_number": "0825",
+    "task_title": "Do'stimdan sirli xabar",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2025-05-06T05:38:00.000000Z",
+    "url": "https://robocontest.uz/attempts/8297212",
+    "file": "0825_Do'stimdan_sirli_xabar.py"
+  },
+  {
+    "attempt_id": 8297204,
+    "task_number": "0715",
+    "task_title": "Bilag'onlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-06T05:37:27.000000Z",
+    "url": "https://robocontest.uz/attempts/8297204",
+    "file": "0715_Bilag'onlar.py"
+  },
+  {
+    "attempt_id": 8297194,
+    "task_number": "0712",
+    "task_title": "Other gcd",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-06T05:36:48.000000Z",
+    "url": "https://robocontest.uz/attempts/8297194",
+    "file": "0712_Other_gcd.py"
+  },
+  {
+    "attempt_id": 8297162,
+    "task_number": "R046D",
+    "task_title": "Raqamlar yig’indisi 2",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2025-05-06T05:35:05.000000Z",
+    "url": "https://robocontest.uz/attempts/8297162",
+    "file": "R046D_Raqamlar_yig’indisi_2.py"
+  },
+  {
+    "attempt_id": 8297135,
+    "task_number": "R032A",
+    "task_title": "Labirint",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2025-05-06T05:33:11.000000Z",
+    "url": "https://robocontest.uz/attempts/8297135",
+    "file": "R032A_Labirint.py"
+  },
+  {
+    "attempt_id": 8297132,
+    "task_number": "0424",
+    "task_title": "Snake game",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-06T05:32:30.000000Z",
+    "url": "https://robocontest.uz/attempts/8297132",
+    "file": "0424_Snake_game.py"
+  },
+  {
+    "attempt_id": 8294985,
+    "task_number": "R039F",
+    "task_title": "Matritsalarning yig'indisi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:55:24.000000Z",
+    "url": "https://robocontest.uz/attempts/8294985",
+    "file": "R039F_Matritsalarning_yig'indisi.py"
+  },
+  {
+    "attempt_id": 8294972,
+    "task_number": "R038E",
+    "task_title": "G’alati timer",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:54:01.000000Z",
+    "url": "https://robocontest.uz/attempts/8294972",
+    "file": "R038E_G’alati_timer.py"
+  },
+  {
+    "attempt_id": 8294947,
+    "task_number": "M054H",
+    "task_title": "Aralash kasr",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:51:18.000000Z",
+    "url": "https://robocontest.uz/attempts/8294947",
+    "file": "M054H_Aralash_kasr.py"
+  },
+  {
+    "attempt_id": 8294931,
+    "task_number": "A0077",
+    "task_title": "Robocontest.uz da statistika",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:48:09.000000Z",
+    "url": "https://robocontest.uz/attempts/8294931",
+    "file": "A0077_Robocontest.uz_da_statistika.py"
+  },
+  {
+    "attempt_id": 8294846,
+    "task_number": "0911",
+    "task_title": "MOT",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:30:20.000000Z",
+    "url": "https://robocontest.uz/attempts/8294846",
+    "file": "0911_MOT.py"
+  },
+  {
+    "attempt_id": 8294828,
+    "task_number": "R067F",
+    "task_title": "Donalab sotilgan olmalar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:27:39.000000Z",
+    "url": "https://robocontest.uz/attempts/8294828",
+    "file": "R067F_Donalab_sotilgan_olmalar.py"
+  },
+  {
+    "attempt_id": 8294778,
+    "task_number": "0871",
+    "task_title": "Devordagi sonlar o'yini 1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:17:20.000000Z",
+    "url": "https://robocontest.uz/attempts/8294778",
+    "file": "0871_Devordagi_sonlar_o'yini_1.py"
+  },
+  {
+    "attempt_id": 8294759,
+    "task_number": "R044C",
+    "task_title": "Shaxmat musobaqasi 2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:14:12.000000Z",
+    "url": "https://robocontest.uz/attempts/8294759",
+    "file": "R044C_Shaxmat_musobaqasi_2.py"
+  },
+  {
+    "attempt_id": 8294742,
+    "task_number": "R038D",
+    "task_title": "Musobaqa",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T17:10:45.000000Z",
+    "url": "https://robocontest.uz/attempts/8294742",
+    "file": "R038D_Musobaqa.py"
+  },
+  {
+    "attempt_id": 8294508,
+    "task_number": "M027G",
+    "task_title": "Birinchi bo'linuvchi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T16:24:20.000000Z",
+    "url": "https://robocontest.uz/attempts/8294508",
+    "file": "M027G_Birinchi_bo'linuvchi.py"
+  },
+  {
+    "attempt_id": 8294505,
+    "task_number": "0534",
+    "task_title": "Pentatop",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T16:23:42.000000Z",
+    "url": "https://robocontest.uz/attempts/8294505",
+    "file": "0534_Pentatop.py"
+  },
+  {
+    "attempt_id": 8294458,
+    "task_number": "0529",
+    "task_title": "Mod",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T16:15:14.000000Z",
+    "url": "https://robocontest.uz/attempts/8294458",
+    "file": "0529_Mod.py"
+  },
+  {
+    "attempt_id": 8294428,
+    "task_number": "R066F",
+    "task_title": "Paskal uchburchagi #4",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T16:10:59.000000Z",
+    "url": "https://robocontest.uz/attempts/8294428",
+    "file": "R066F_Paskal_uchburchagi_#4.py"
+  },
+  {
+    "attempt_id": 8294385,
+    "task_number": "R066C",
+    "task_title": "Paskal uchburchagi #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T16:01:35.000000Z",
+    "url": "https://robocontest.uz/attempts/8294385",
+    "file": "R066C_Paskal_uchburchagi_#1.py"
+  },
+  {
+    "attempt_id": 8294379,
+    "task_number": "R066D",
+    "task_title": "Paskal uchburchagi #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T15:59:48.000000Z",
+    "url": "https://robocontest.uz/attempts/8294379",
+    "file": "R066D_Paskal_uchburchagi_#2.py"
+  },
+  {
+    "attempt_id": 8294313,
+    "task_number": "R037A",
+    "task_title": "Shifrlash",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T15:50:54.000000Z",
+    "url": "https://robocontest.uz/attempts/8294313",
+    "file": "R037A_Shifrlash.py"
+  },
+  {
+    "attempt_id": 8294184,
+    "task_number": "0531",
+    "task_title": "Xor 2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T15:36:25.000000Z",
+    "url": "https://robocontest.uz/attempts/8294184",
+    "file": "0531_Xor_2.py"
+  },
+  {
+    "attempt_id": 8294145,
+    "task_number": "R051B",
+    "task_title": "Billiard",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T15:30:57.000000Z",
+    "url": "https://robocontest.uz/attempts/8294145",
+    "file": "R051B_Billiard.py"
+  },
+  {
+    "attempt_id": 8293577,
+    "task_number": "R017B",
+    "task_title": "Anagrammalar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-05-05T13:37:28.000000Z",
+    "url": "https://robocontest.uz/attempts/8293577",
+    "file": "R017B_Anagrammalar.py"
+  },
+  {
+    "attempt_id": 8250819,
+    "task_number": "R067A",
+    "task_title": "EKUB va EKUK orqali #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-04-30T10:06:49.000000Z",
+    "url": "https://robocontest.uz/attempts/8250819",
+    "file": "R067A_EKUB_va_EKUK_orqali_#1.py"
+  },
+  {
+    "attempt_id": 8216854,
+    "task_number": "M007A",
+    "task_title": "Ko'paytma",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-04-26T10:19:44.000000Z",
+    "url": "https://robocontest.uz/attempts/8216854",
+    "file": "M007A_Ko'paytma.py"
+  },
+  {
+    "attempt_id": 8116669,
+    "task_number": "M001C",
+    "task_title": "Uy raqami",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-04-16T07:56:16.000000Z",
+    "url": "https://robocontest.uz/attempts/8116669",
+    "file": "M001C_Uy_raqami.py"
+  },
+  {
+    "attempt_id": 8092642,
+    "task_number": "R002D",
+    "task_title": "Paskal uchburchagi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-04-13T10:56:45.000000Z",
+    "url": "https://robocontest.uz/attempts/8092642",
+    "file": "R002D_Paskal_uchburchagi.py"
+  },
+  {
+    "attempt_id": 8092638,
+    "task_number": "0838",
+    "task_title": "Raqamgacha raqamlari yig'indisi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-04-13T10:54:10.000000Z",
+    "url": "https://robocontest.uz/attempts/8092638",
+    "file": "0838_Raqamgacha_raqamlari_yig'indisi.py"
+  },
+  {
+    "attempt_id": 8092543,
+    "task_number": "A0078",
+    "task_title": "Qiziqarli topshiriq",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-04-13T10:27:19.000000Z",
+    "url": "https://robocontest.uz/attempts/8092543",
+    "file": "A0078_Qiziqarli_topshiriq.py"
+  },
+  {
+    "attempt_id": 8084902,
+    "task_number": "M053B",
+    "task_title": "Nollar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-04-12T05:54:59.000000Z",
+    "url": "https://robocontest.uz/attempts/8084902",
+    "file": "M053B_Nollar_soni.py"
+  },
+  {
+    "attempt_id": 8002609,
+    "task_number": "M033B",
+    "task_title": "Poyezdga chipta",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-04-02T18:51:59.000000Z",
+    "url": "https://robocontest.uz/attempts/8002609",
+    "file": "M033B_Poyezdga_chipta.py"
+  },
+  {
+    "attempt_id": 7972175,
+    "task_number": "R078I",
+    "task_title": "A+B",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-03-27T07:43:27.000000Z",
+    "url": "https://robocontest.uz/attempts/7972175",
+    "file": "R078I_A+B.py"
+  },
+  {
+    "attempt_id": 7698028,
+    "task_number": "A0110",
+    "task_title": "Contestlar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-02-28T10:32:33.000000Z",
+    "url": "https://robocontest.uz/attempts/7698028",
+    "file": "A0110_Contestlar_soni.py"
+  },
+  {
+    "attempt_id": 7679693,
+    "task_number": "0952",
+    "task_title": "Kombinatorika #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-02-27T09:55:57.000000Z",
+    "url": "https://robocontest.uz/attempts/7679693",
+    "file": "0952_Kombinatorika_#1.py"
+  },
+  {
+    "attempt_id": 7664225,
+    "task_number": "0604",
+    "task_title": "ASCII",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-02-26T11:20:30.000000Z",
+    "url": "https://robocontest.uz/attempts/7664225",
+    "file": "0604_ASCII.py"
+  },
+  {
+    "attempt_id": 7587252,
+    "task_number": "A0092",
+    "task_title": "Daga-daga",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-02-19T07:28:28.000000Z",
+    "url": "https://robocontest.uz/attempts/7587252",
+    "file": "A0092_Daga-daga.py"
+  },
+  {
+    "attempt_id": 7547589,
+    "task_number": "A0066",
+    "task_title": "Formula",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-02-15T08:14:45.000000Z",
+    "url": "https://robocontest.uz/attempts/7547589",
+    "file": "A0066_Formula.py"
+  },
+  {
+    "attempt_id": 7479848,
+    "task_number": "M054E",
+    "task_title": "Damino toshlari",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2025-02-10T10:36:55.000000Z",
+    "url": "https://robocontest.uz/attempts/7479848",
+    "file": "M054E_Damino_toshlari.py"
+  },
+  {
+    "attempt_id": 6936747,
+    "task_number": "M016H",
+    "task_title": "Mergan",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-12-20T10:51:59.000000Z",
+    "url": "https://robocontest.uz/attempts/6936747",
+    "file": "M016H_Mergan.py"
+  },
+  {
+    "attempt_id": 6936737,
+    "task_number": "R045D",
+    "task_title": "Kvadrat tenglama",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-12-20T10:51:21.000000Z",
+    "url": "https://robocontest.uz/attempts/6936737",
+    "file": "R045D_Kvadrat_tenglama.py"
+  },
+  {
+    "attempt_id": 5837886,
+    "task_number": "0446",
+    "task_title": "Azimjonning qiziqishlari",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-23T10:32:57.000000Z",
+    "url": "https://robocontest.uz/attempts/5837886",
+    "file": "0446_Azimjonning_qiziqishlari.py"
+  },
+  {
+    "attempt_id": 5824784,
+    "task_number": "M047E",
+    "task_title": "Natural son #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-22T11:51:22.000000Z",
+    "url": "https://robocontest.uz/attempts/5824784",
+    "file": "M047E_Natural_son_#2.py"
+  },
+  {
+    "attempt_id": 5819979,
+    "task_number": "R045E",
+    "task_title": "Sayidbek informatika darsida",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-22T09:26:19.000000Z",
+    "url": "https://robocontest.uz/attempts/5819979",
+    "file": "R045E_Sayidbek_informatika_darsida.py"
+  },
+  {
+    "attempt_id": 5787038,
+    "task_number": "R072B",
+    "task_title": "Tub sonlarni hosil qilish",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-19T13:07:43.000000Z",
+    "url": "https://robocontest.uz/attempts/5787038",
+    "file": "R072B_Tub_sonlarni_hosil_qilish.py"
+  },
+  {
+    "attempt_id": 5784772,
+    "task_number": "M008D",
+    "task_title": "Telefon raqamlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-19T07:29:12.000000Z",
+    "url": "https://robocontest.uz/attempts/5784772",
+    "file": "M008D_Telefon_raqamlar.py"
+  },
+  {
+    "attempt_id": 5774620,
+    "task_number": "0688",
+    "task_title": "Noodatiy dastur",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-18T10:50:30.000000Z",
+    "url": "https://robocontest.uz/attempts/5774620",
+    "file": "0688_Noodatiy_dastur.py"
+  },
+  {
+    "attempt_id": 5754441,
+    "task_number": "R006A",
+    "task_title": "Zinapoya",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-17T11:14:36.000000Z",
+    "url": "https://robocontest.uz/attempts/5754441",
+    "file": "R006A_Zinapoya.py"
+  },
+  {
+    "attempt_id": 5754376,
+    "task_number": "0419",
+    "task_title": "Sonni top",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-17T11:12:36.000000Z",
+    "url": "https://robocontest.uz/attempts/5754376",
+    "file": "0419_Sonni_top.py"
+  },
+  {
+    "attempt_id": 5723824,
+    "task_number": "R005G",
+    "task_title": "Ko’pburchakli sonlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-15T13:19:53.000000Z",
+    "url": "https://robocontest.uz/attempts/5723824",
+    "file": "R005G_Ko’pburchakli_sonlar.py"
+  },
+  {
+    "attempt_id": 5722698,
+    "task_number": "A0022",
+    "task_title": "Super daraja",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-15T11:50:29.000000Z",
+    "url": "https://robocontest.uz/attempts/5722698",
+    "file": "A0022_Super_daraja.py"
+  },
+  {
+    "attempt_id": 5722211,
+    "task_number": "M001D",
+    "task_title": "Baliq ovi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-15T11:30:27.000000Z",
+    "url": "https://robocontest.uz/attempts/5722211",
+    "file": "M001D_Baliq_ovi.py"
+  },
+  {
+    "attempt_id": 5721666,
+    "task_number": "R047K",
+    "task_title": "Svetofor",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2024-10-15T11:06:17.000000Z",
+    "url": "https://robocontest.uz/attempts/5721666",
+    "file": "R047K_Svetofor.py"
+  },
+  {
+    "attempt_id": 5711692,
+    "task_number": "M065C",
+    "task_title": "Avtobus",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-15T04:01:13.000000Z",
+    "url": "https://robocontest.uz/attempts/5711692",
+    "file": "M065C_Avtobus.py"
+  },
+  {
+    "attempt_id": 5711617,
+    "task_number": "R086A",
+    "task_title": "Uddalab bo'lmas topshiriq",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-15T03:59:11.000000Z",
+    "url": "https://robocontest.uz/attempts/5711617",
+    "file": "R086A_Uddalab_bo'lmas_topshiriq.py"
+  },
+  {
+    "attempt_id": 5711522,
+    "task_number": "R085A",
+    "task_title": "A+B",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-15T03:54:40.000000Z",
+    "url": "https://robocontest.uz/attempts/5711522",
+    "file": "R085A_A+B.py"
+  },
+  {
+    "attempt_id": 5574339,
+    "task_number": "R042B",
+    "task_title": "\"O‘tkan kunlar\" romani",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-10-02T10:51:38.000000Z",
+    "url": "https://robocontest.uz/attempts/5574339",
+    "file": "R042B_O‘tkan_kunlar_romani.py"
+  },
+  {
+    "attempt_id": 5557871,
+    "task_number": "R079A",
+    "task_title": "Suv to'ldirish",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:31:35.000000Z",
+    "url": "https://robocontest.uz/attempts/5557871",
+    "file": "R079A_Suv_to'ldirish.py"
+  },
+  {
+    "attempt_id": 5557869,
+    "task_number": "R080C",
+    "task_title": "Ajoyib Tenglama",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:31:24.000000Z",
+    "url": "https://robocontest.uz/attempts/5557869",
+    "file": "R080C_Ajoyib_Tenglama.py"
+  },
+  {
+    "attempt_id": 5557863,
+    "task_number": "0820",
+    "task_title": "To'g'ri taxallus",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:29:43.000000Z",
+    "url": "https://robocontest.uz/attempts/5557863",
+    "file": "0820_To'g'ri_taxallus.py"
+  },
+  {
+    "attempt_id": 5557856,
+    "task_number": "A0068",
+    "task_title": "Pifagor",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:28:14.000000Z",
+    "url": "https://robocontest.uz/attempts/5557856",
+    "file": "A0068_Pifagor.py"
+  },
+  {
+    "attempt_id": 5557853,
+    "task_number": "R056A",
+    "task_title": "Types",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:27:51.000000Z",
+    "url": "https://robocontest.uz/attempts/5557853",
+    "file": "R056A_Types.py"
+  },
+  {
+    "attempt_id": 5557850,
+    "task_number": "M027F",
+    "task_title": "Rozetka",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:27:26.000000Z",
+    "url": "https://robocontest.uz/attempts/5557850",
+    "file": "M027F_Rozetka.py"
+  },
+  {
+    "attempt_id": 5557848,
+    "task_number": "0698",
+    "task_title": "Yettilik qo’shuv",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:26:41.000000Z",
+    "url": "https://robocontest.uz/attempts/5557848",
+    "file": "0698_Yettilik_qo’shuv.py"
+  },
+  {
+    "attempt_id": 5557847,
+    "task_number": "0696",
+    "task_title": "Ketma - ketlik Sum",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:26:16.000000Z",
+    "url": "https://robocontest.uz/attempts/5557847",
+    "file": "0696_Ketma_-_ketlik_Sum.py"
+  },
+  {
+    "attempt_id": 5557844,
+    "task_number": "0586",
+    "task_title": "MMORPG GAME | LEVEL #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:25:42.000000Z",
+    "url": "https://robocontest.uz/attempts/5557844",
+    "file": "0586_MMORPG_GAME_LEVEL_#1.py"
+  },
+  {
+    "attempt_id": 5557842,
+    "task_number": "0642",
+    "task_title": "Sistema",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:25:10.000000Z",
+    "url": "https://robocontest.uz/attempts/5557842",
+    "file": "0642_Sistema.py"
+  },
+  {
+    "attempt_id": 5557839,
+    "task_number": "0521",
+    "task_title": "MAXAB - funksiya",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:24:16.000000Z",
+    "url": "https://robocontest.uz/attempts/5557839",
+    "file": "0521_MAXAB_-_funksiya.py"
+  },
+  {
+    "attempt_id": 5557833,
+    "task_number": "M016E",
+    "task_title": "Eng katta EKUK",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:23:18.000000Z",
+    "url": "https://robocontest.uz/attempts/5557833",
+    "file": "M016E_Eng_katta_EKUK.py"
+  },
+  {
+    "attempt_id": 5557831,
+    "task_number": "M015E",
+    "task_title": "Pangram",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:22:58.000000Z",
+    "url": "https://robocontest.uz/attempts/5557831",
+    "file": "M015E_Pangram.py"
+  },
+  {
+    "attempt_id": 5557830,
+    "task_number": "R046A",
+    "task_title": "Bilmasvoyga yordam 2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:22:34.000000Z",
+    "url": "https://robocontest.uz/attempts/5557830",
+    "file": "R046A_Bilmasvoyga_yordam_2.py"
+  },
+  {
+    "attempt_id": 5557827,
+    "task_number": "A0043",
+    "task_title": "O’zaro tub son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:21:58.000000Z",
+    "url": "https://robocontest.uz/attempts/5557827",
+    "file": "A0043_O’zaro_tub_son.py"
+  },
+  {
+    "attempt_id": 5557824,
+    "task_number": "M009F",
+    "task_title": "Qoldiq",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:21:28.000000Z",
+    "url": "https://robocontest.uz/attempts/5557824",
+    "file": "M009F_Qoldiq.py"
+  },
+  {
+    "attempt_id": 5557823,
+    "task_number": "M004C",
+    "task_title": "Takrorlangan son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:21:08.000000Z",
+    "url": "https://robocontest.uz/attempts/5557823",
+    "file": "M004C_Takrorlangan_son.py"
+  },
+  {
+    "attempt_id": 5557822,
+    "task_number": "R022B",
+    "task_title": "To’plam osti",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:20:33.000000Z",
+    "url": "https://robocontest.uz/attempts/5557822",
+    "file": "R022B_To’plam_osti.py"
+  },
+  {
+    "attempt_id": 5557811,
+    "task_number": "R004D",
+    "task_title": "Ketma-ketlik 235",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:17:22.000000Z",
+    "url": "https://robocontest.uz/attempts/5557811",
+    "file": "R004D_Ketma-ketlik_235.py"
+  },
+  {
+    "attempt_id": 5557804,
+    "task_number": "M001B",
+    "task_title": "Dizayner Natasha",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:15:56.000000Z",
+    "url": "https://robocontest.uz/attempts/5557804",
+    "file": "M001B_Dizayner_Natasha.py"
+  },
+  {
+    "attempt_id": 5557802,
+    "task_number": "A0024",
+    "task_title": "G'alati jadval",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:15:34.000000Z",
+    "url": "https://robocontest.uz/attempts/5557802",
+    "file": "A0024_G'alati_jadval.py"
+  },
+  {
+    "attempt_id": 5557801,
+    "task_number": "A0023",
+    "task_title": "Qat'iyatli son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-09-29T06:15:15.000000Z",
+    "url": "https://robocontest.uz/attempts/5557801",
+    "file": "A0023_Qat'iyatli_son.py"
+  },
+  {
+    "attempt_id": 3614149,
+    "task_number": "M065A",
+    "task_title": "O'yinlar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-01-25T08:04:18.000000Z",
+    "url": "https://robocontest.uz/attempts/3614149",
+    "file": "M065A_O'yinlar_soni.py"
+  },
+  {
+    "attempt_id": 3478200,
+    "task_number": "QNJHHW8DYG",
+    "task_title": "Massiv #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-01-08T07:50:28.000000Z",
+    "url": "https://robocontest.uz/attempts/3478200",
+    "file": "QNJHHW8DYG_Massiv_#2.py"
+  },
+  {
+    "attempt_id": 3478196,
+    "task_number": "TOPJPZI0RQ",
+    "task_title": "Massiv #3",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-01-08T07:49:20.000000Z",
+    "url": "https://robocontest.uz/attempts/3478196",
+    "file": "TOPJPZI0RQ_Massiv_#3.py"
+  },
+  {
+    "attempt_id": 3478179,
+    "task_number": "A70R35NID6",
+    "task_title": "Massiv  #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2024-01-08T07:46:44.000000Z",
+    "url": "https://robocontest.uz/attempts/3478179",
+    "file": "A70R35NID6_Massiv_#1.py"
+  },
+  {
+    "attempt_id": 3109999,
+    "task_number": "R034D",
+    "task_title": "Kamondan otish",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-07T14:36:17.000000Z",
+    "url": "https://robocontest.uz/attempts/3109999",
+    "file": "R034D_Kamondan_otish.py"
+  },
+  {
+    "attempt_id": 3106595,
+    "task_number": "0493",
+    "task_title": "Lift",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-07T07:39:52.000000Z",
+    "url": "https://robocontest.uz/attempts/3106595",
+    "file": "0493_Lift.py"
+  },
+  {
+    "attempt_id": 3049766,
+    "task_number": "M019C",
+    "task_title": "10->2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T12:40:31.000000Z",
+    "url": "https://robocontest.uz/attempts/3049766",
+    "file": "M019C_10-_2.py"
+  },
+  {
+    "attempt_id": 3049759,
+    "task_number": "M019I",
+    "task_title": "Olimpiada",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T12:39:49.000000Z",
+    "url": "https://robocontest.uz/attempts/3049759",
+    "file": "M019I_Olimpiada.py"
+  },
+  {
+    "attempt_id": 3049754,
+    "task_number": "M014B",
+    "task_title": "Bankdan pul olish",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T12:39:25.000000Z",
+    "url": "https://robocontest.uz/attempts/3049754",
+    "file": "M014B_Bankdan_pul_olish.py"
+  },
+  {
+    "attempt_id": 3049741,
+    "task_number": "M005B",
+    "task_title": "Qog’oz",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T12:38:52.000000Z",
+    "url": "https://robocontest.uz/attempts/3049741",
+    "file": "M005B_Qog’oz.py"
+  },
+  {
+    "attempt_id": 3049735,
+    "task_number": "M004B",
+    "task_title": "Paypoq",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T12:38:31.000000Z",
+    "url": "https://robocontest.uz/attempts/3049735",
+    "file": "M004B_Paypoq.py"
+  },
+  {
+    "attempt_id": 3049728,
+    "task_number": "R018B",
+    "task_title": "FibORacci",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T12:37:54.000000Z",
+    "url": "https://robocontest.uz/attempts/3049728",
+    "file": "R018B_FibORacci.py"
+  },
+  {
+    "attempt_id": 3049704,
+    "task_number": "R006C",
+    "task_title": "K-kichik son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T12:35:57.000000Z",
+    "url": "https://robocontest.uz/attempts/3049704",
+    "file": "R006C_K-kichik_son.py"
+  },
+  {
+    "attempt_id": 3049688,
+    "task_number": "R004B",
+    "task_title": "Kubik matritsada o’yin",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T12:33:59.000000Z",
+    "url": "https://robocontest.uz/attempts/3049688",
+    "file": "R004B_Kubik_matritsada_o’yin.py"
+  },
+  {
+    "attempt_id": 3046296,
+    "task_number": "0805",
+    "task_title": "Yosh matematik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T09:11:06.000000Z",
+    "url": "https://robocontest.uz/attempts/3046296",
+    "file": "0805_Yosh_matematik.py"
+  },
+  {
+    "attempt_id": 3038436,
+    "task_number": "R001A",
+    "task_title": "Virus №1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-03T05:06:39.000000Z",
+    "url": "https://robocontest.uz/attempts/3038436",
+    "file": "R001A_Virus_№1.py"
+  },
+  {
+    "attempt_id": 3028172,
+    "task_number": "M032G",
+    "task_title": "Sonlar va bitlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-02T13:11:00.000000Z",
+    "url": "https://robocontest.uz/attempts/3028172",
+    "file": "M032G_Sonlar_va_bitlar.py"
+  },
+  {
+    "attempt_id": 3015890,
+    "task_number": "R044E",
+    "task_title": "Uyga vazifa 2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-02T05:27:43.000000Z",
+    "url": "https://robocontest.uz/attempts/3015890",
+    "file": "R044E_Uyga_vazifa_2.py"
+  },
+  {
+    "attempt_id": 3015133,
+    "task_number": "R019A",
+    "task_title": "Tovuq fabrikasi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-02T05:13:06.000000Z",
+    "url": "https://robocontest.uz/attempts/3015133",
+    "file": "R019A_Tovuq_fabrikasi.py"
+  },
+  {
+    "attempt_id": 3013443,
+    "task_number": "0489",
+    "task_title": "Ikki aylana",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-02T04:39:11.000000Z",
+    "url": "https://robocontest.uz/attempts/3013443",
+    "file": "0489_Ikki_aylana.py"
+  },
+  {
+    "attempt_id": 3003163,
+    "task_number": "R067L",
+    "task_title": "Koordinatadagi yuza 1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-01T11:40:59.000000Z",
+    "url": "https://robocontest.uz/attempts/3003163",
+    "file": "R067L_Koordinatadagi_yuza_1.py"
+  },
+  {
+    "attempt_id": 2995087,
+    "task_number": "R063C",
+    "task_title": "Ifodani hisoblang.",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-01T06:48:48.000000Z",
+    "url": "https://robocontest.uz/attempts/2995087",
+    "file": "R063C_Ifodani_hisoblang.py"
+  },
+  {
+    "attempt_id": 2993051,
+    "task_number": "0807",
+    "task_title": "Polindrom vaqt",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-01T05:44:13.000000Z",
+    "url": "https://robocontest.uz/attempts/2993051",
+    "file": "0807_Polindrom_vaqt.py"
+  },
+  {
+    "attempt_id": 2991681,
+    "task_number": "R005H",
+    "task_title": "Ko’paytma",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-01T05:09:12.000000Z",
+    "url": "https://robocontest.uz/attempts/2991681",
+    "file": "R005H_Ko’paytma.py"
+  },
+  {
+    "attempt_id": 2991106,
+    "task_number": "M018C",
+    "task_title": "Juda toq son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-01T04:55:16.000000Z",
+    "url": "https://robocontest.uz/attempts/2991106",
+    "file": "M018C_Juda_toq_son.py"
+  },
+  {
+    "attempt_id": 2990761,
+    "task_number": "A0020",
+    "task_title": "Kanfetlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-11-01T04:45:12.000000Z",
+    "url": "https://robocontest.uz/attempts/2990761",
+    "file": "A0020_Kanfetlar.py"
+  },
+  {
+    "attempt_id": 2984464,
+    "task_number": "R031B",
+    "task_title": "Gugurt donalari va raqamlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-31T14:31:33.000000Z",
+    "url": "https://robocontest.uz/attempts/2984464",
+    "file": "R031B_Gugurt_donalari_va_raqamlar.py"
+  },
+  {
+    "attempt_id": 2982863,
+    "task_number": "R023A",
+    "task_title": "Dasturchilar kuni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-31T12:16:02.000000Z",
+    "url": "https://robocontest.uz/attempts/2982863",
+    "file": "R023A_Dasturchilar_kuni.py"
+  },
+  {
+    "attempt_id": 2982725,
+    "task_number": "M054C",
+    "task_title": "Umumiy bo'luvchilar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-31T12:08:05.000000Z",
+    "url": "https://robocontest.uz/attempts/2982725",
+    "file": "M054C_Umumiy_bo'luvchilar_soni.py"
+  },
+  {
+    "attempt_id": 2979577,
+    "task_number": "R021A",
+    "task_title": "Tarozi №1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-31T09:18:23.000000Z",
+    "url": "https://robocontest.uz/attempts/2979577",
+    "file": "R021A_Tarozi_№1.py"
+  },
+  {
+    "attempt_id": 2973667,
+    "task_number": "M047A",
+    "task_title": "Kechikkan poyezd",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-31T05:42:46.000000Z",
+    "url": "https://robocontest.uz/attempts/2973667",
+    "file": "M047A_Kechikkan_poyezd.py"
+  },
+  {
+    "attempt_id": 2972005,
+    "task_number": "M024A",
+    "task_title": "Tug’ilgan kun #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-31T04:57:05.000000Z",
+    "url": "https://robocontest.uz/attempts/2972005",
+    "file": "M024A_Tug’ilgan_kun_#1.py"
+  },
+  {
+    "attempt_id": 2971195,
+    "task_number": "0565",
+    "task_title": "Devor bo'yash",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-31T04:32:07.000000Z",
+    "url": "https://robocontest.uz/attempts/2971195",
+    "file": "0565_Devor_bo'yash.py"
+  },
+  {
+    "attempt_id": 2967822,
+    "task_number": "0813",
+    "task_title": "Kitoblar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-30T16:02:29.000000Z",
+    "url": "https://robocontest.uz/attempts/2967822",
+    "file": "0813_Kitoblar.py"
+  },
+  {
+    "attempt_id": 2914595,
+    "task_number": "R047J",
+    "task_title": "Otlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-27T12:59:25.000000Z",
+    "url": "https://robocontest.uz/attempts/2914595",
+    "file": "R047J_Otlar.py"
+  },
+  {
+    "attempt_id": 2888039,
+    "task_number": "R005A",
+    "task_title": "Zarik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-26T08:03:44.000000Z",
+    "url": "https://robocontest.uz/attempts/2888039",
+    "file": "R005A_Zarik.py"
+  },
+  {
+    "attempt_id": 2866031,
+    "task_number": "M008E",
+    "task_title": "Kitobsevar BILAG’ON",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-25T11:20:59.000000Z",
+    "url": "https://robocontest.uz/attempts/2866031",
+    "file": "M008E_Kitobsevar_BILAG’ON.py"
+  },
+  {
+    "attempt_id": 2829919,
+    "task_number": "R009B",
+    "task_title": "Mevalar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-24T03:07:59.000000Z",
+    "url": "https://robocontest.uz/attempts/2829919",
+    "file": "R009B_Mevalar.py"
+  },
+  {
+    "attempt_id": 2820221,
+    "task_number": "R047I",
+    "task_title": "Yangi yil archasi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-23T06:50:44.000000Z",
+    "url": "https://robocontest.uz/attempts/2820221",
+    "file": "R047I_Yangi_yil_archasi.py"
+  },
+  {
+    "attempt_id": 2817710,
+    "task_number": "M004E",
+    "task_title": "Tanga",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-23T05:17:21.000000Z",
+    "url": "https://robocontest.uz/attempts/2817710",
+    "file": "M004E_Tanga.py"
+  },
+  {
+    "attempt_id": 2815733,
+    "task_number": "R048B",
+    "task_title": "Bilmasvoy matematika darsida",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-23T03:46:08.000000Z",
+    "url": "https://robocontest.uz/attempts/2815733",
+    "file": "R048B_Bilmasvoy_matematika_darsida.py"
+  },
+  {
+    "attempt_id": 2815543,
+    "task_number": "0512",
+    "task_title": "TUIT CUP",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-23T03:24:31.000000Z",
+    "url": "https://robocontest.uz/attempts/2815543",
+    "file": "0512_TUIT_CUP.py"
+  },
+  {
+    "attempt_id": 2801225,
+    "task_number": "0645",
+    "task_title": "Chiroyli rasm",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-20T12:23:27.000000Z",
+    "url": "https://robocontest.uz/attempts/2801225",
+    "file": "0645_Chiroyli_rasm.py"
+  },
+  {
+    "attempt_id": 2798373,
+    "task_number": "R047E",
+    "task_title": "Eng katta juft son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-20T06:54:27.000000Z",
+    "url": "https://robocontest.uz/attempts/2798373",
+    "file": "R047E_Eng_katta_juft_son.py"
+  },
+  {
+    "attempt_id": 2797324,
+    "task_number": "0783",
+    "task_title": "Chiroyli sonlar #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-20T05:42:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2797324",
+    "file": "0783_Chiroyli_sonlar_#2.py"
+  },
+  {
+    "attempt_id": 2797248,
+    "task_number": "M051B",
+    "task_title": "Oppog'oy va 7 gnomlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-20T05:37:34.000000Z",
+    "url": "https://robocontest.uz/attempts/2797248",
+    "file": "M051B_Oppog'oy_va_7_gnomlar.py"
+  },
+  {
+    "attempt_id": 2796757,
+    "task_number": "R077H",
+    "task_title": "ASCII #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-20T05:08:12.000000Z",
+    "url": "https://robocontest.uz/attempts/2796757",
+    "file": "R077H_ASCII_#2.py"
+  },
+  {
+    "attempt_id": 2796376,
+    "task_number": "M005F",
+    "task_title": "Bo’linmas son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-20T04:40:22.000000Z",
+    "url": "https://robocontest.uz/attempts/2796376",
+    "file": "M005F_Bo’linmas_son.py"
+  },
+  {
+    "attempt_id": 2794268,
+    "task_number": "M020H",
+    "task_title": "Number jump",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-19T16:00:23.000000Z",
+    "url": "https://robocontest.uz/attempts/2794268",
+    "file": "M020H_Number_jump.py"
+  },
+  {
+    "attempt_id": 2794143,
+    "task_number": "R077F",
+    "task_title": "Ajal o'yini #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-19T15:43:20.000000Z",
+    "url": "https://robocontest.uz/attempts/2794143",
+    "file": "R077F_Ajal_o'yini_#1.py"
+  },
+  {
+    "attempt_id": 2793914,
+    "task_number": "0602",
+    "task_title": "Qism satrlar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-19T15:00:13.000000Z",
+    "url": "https://robocontest.uz/attempts/2793914",
+    "file": "0602_Qism_satrlar_soni.py"
+  },
+  {
+    "attempt_id": 2786739,
+    "task_number": "R046C",
+    "task_title": "Raqamlar yigʻindisi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-19T04:31:21.000000Z",
+    "url": "https://robocontest.uz/attempts/2786739",
+    "file": "R046C_Raqamlar_yigʻindisi.py"
+  },
+  {
+    "attempt_id": 2786509,
+    "task_number": "R047C",
+    "task_title": "Omadli chipta",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-19T04:16:32.000000Z",
+    "url": "https://robocontest.uz/attempts/2786509",
+    "file": "R047C_Omadli_chipta.py"
+  },
+  {
+    "attempt_id": 2780304,
+    "task_number": "M023A",
+    "task_title": "O’chirish #1",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-18T07:47:41.000000Z",
+    "url": "https://robocontest.uz/attempts/2780304",
+    "file": "M023A_O’chirish_#1.py"
+  },
+  {
+    "attempt_id": 2779978,
+    "task_number": "0588",
+    "task_title": "Increment decrement",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-18T07:27:59.000000Z",
+    "url": "https://robocontest.uz/attempts/2779978",
+    "file": "0588_Increment_decrement.py"
+  },
+  {
+    "attempt_id": 2779698,
+    "task_number": "R054C",
+    "task_title": "Oraliqdagi EKUB",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-18T07:15:41.000000Z",
+    "url": "https://robocontest.uz/attempts/2779698",
+    "file": "R054C_Oraliqdagi_EKUB.py"
+  },
+  {
+    "attempt_id": 2774291,
+    "task_number": "A0034",
+    "task_title": "Minimal va maksimal yig’indi 2",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-17T15:21:34.000000Z",
+    "url": "https://robocontest.uz/attempts/2774291",
+    "file": "A0034_Minimal_va_maksimal_yig’indi_2.py"
+  },
+  {
+    "attempt_id": 2766461,
+    "task_number": "SK6WMUKZYC",
+    "task_title": "string 0.9",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-17T03:42:57.000000Z",
+    "url": "https://robocontest.uz/attempts/2766461",
+    "file": "SK6WMUKZYC_string_0.9.py"
+  },
+  {
+    "attempt_id": 2766378,
+    "task_number": "ASM7YD5B4R",
+    "task_title": "char #5",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-17T03:36:10.000000Z",
+    "url": "https://robocontest.uz/attempts/2766378",
+    "file": "ASM7YD5B4R_char_#5.py"
+  },
+  {
+    "attempt_id": 2766370,
+    "task_number": "O8K6KCXDXS",
+    "task_title": "char #4",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-17T03:35:03.000000Z",
+    "url": "https://robocontest.uz/attempts/2766370",
+    "file": "O8K6KCXDXS_char_#4.py"
+  },
+  {
+    "attempt_id": 2766306,
+    "task_number": "PRTNR0DTNC",
+    "task_title": "char #3",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-17T03:26:14.000000Z",
+    "url": "https://robocontest.uz/attempts/2766306",
+    "file": "PRTNR0DTNC_char_#3.py"
+  },
+  {
+    "attempt_id": 2766223,
+    "task_number": "NZJQ3HEZ51",
+    "task_title": "char #2",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-17T03:15:07.000000Z",
+    "url": "https://robocontest.uz/attempts/2766223",
+    "file": "NZJQ3HEZ51_char_#2.py"
+  },
+  {
+    "attempt_id": 2766209,
+    "task_number": "MI9TQ4DZWX",
+    "task_title": "char #1",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-17T03:13:37.000000Z",
+    "url": "https://robocontest.uz/attempts/2766209",
+    "file": "MI9TQ4DZWX_char_#1.py"
+  },
+  {
+    "attempt_id": 2766120,
+    "task_number": "A0017",
+    "task_title": "Juft bo'luvchilar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-17T03:02:58.000000Z",
+    "url": "https://robocontest.uz/attempts/2766120",
+    "file": "A0017_Juft_bo'luvchilar.py"
+  },
+  {
+    "attempt_id": 2759106,
+    "task_number": "R012C",
+    "task_title": "Factorial",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-16T05:15:23.000000Z",
+    "url": "https://robocontest.uz/attempts/2759106",
+    "file": "R012C_Factorial.py"
+  },
+  {
+    "attempt_id": 2752159,
+    "task_number": "M054D",
+    "task_title": "Nihoyatda go'zal son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-14T08:33:24.000000Z",
+    "url": "https://robocontest.uz/attempts/2752159",
+    "file": "M054D_Nihoyatda_go'zal_son.py"
+  },
+  {
+    "attempt_id": 2751692,
+    "task_number": "A0001",
+    "task_title": "A+B",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-14T07:28:56.000000Z",
+    "url": "https://robocontest.uz/attempts/2751692",
+    "file": "A0001_A+B.py"
+  },
+  {
+    "attempt_id": 2751439,
+    "task_number": "0707",
+    "task_title": "Mr. Quloq",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-14T07:03:56.000000Z",
+    "url": "https://robocontest.uz/attempts/2751439",
+    "file": "0707_Mr._Quloq.py"
+  },
+  {
+    "attempt_id": 2750603,
+    "task_number": "0782",
+    "task_title": "Chiroyli sonlar #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-14T05:50:22.000000Z",
+    "url": "https://robocontest.uz/attempts/2750603",
+    "file": "0782_Chiroyli_sonlar_#1.py"
+  },
+  {
+    "attempt_id": 2750203,
+    "task_number": "M009C",
+    "task_title": "Sichqon va Mushuklar",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-14T05:25:11.000000Z",
+    "url": "https://robocontest.uz/attempts/2750203",
+    "file": "M009C_Sichqon_va_Mushuklar.py"
+  },
+  {
+    "attempt_id": 2745939,
+    "task_number": "R032G",
+    "task_title": "Do’st ketma-ketlik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-13T11:13:44.000000Z",
+    "url": "https://robocontest.uz/attempts/2745939",
+    "file": "R032G_Do’st_ketma-ketlik.py"
+  },
+  {
+    "attempt_id": 2745821,
+    "task_number": "0491",
+    "task_title": "Ketma ketlik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-13T10:59:25.000000Z",
+    "url": "https://robocontest.uz/attempts/2745821",
+    "file": "0491_Ketma_ketlik.py"
+  },
+  {
+    "attempt_id": 2745356,
+    "task_number": "R073B",
+    "task_title": "Qotishma",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-13T10:28:52.000000Z",
+    "url": "https://robocontest.uz/attempts/2745356",
+    "file": "R073B_Qotishma.py"
+  },
+  {
+    "attempt_id": 2743606,
+    "task_number": "R053G",
+    "task_title": "G'alati ketma-ketlik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-13T08:55:40.000000Z",
+    "url": "https://robocontest.uz/attempts/2743606",
+    "file": "R053G_G'alati_ketma-ketlik.py"
+  },
+  {
+    "attempt_id": 2743059,
+    "task_number": "R038C",
+    "task_title": "PDF",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-13T08:01:45.000000Z",
+    "url": "https://robocontest.uz/attempts/2743059",
+    "file": "R038C_PDF.py"
+  },
+  {
+    "attempt_id": 2742869,
+    "task_number": "M019H",
+    "task_title": "A+B #3",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-13T07:44:11.000000Z",
+    "url": "https://robocontest.uz/attempts/2742869",
+    "file": "M019H_A+B_#3.py"
+  },
+  {
+    "attempt_id": 2742533,
+    "task_number": "0416",
+    "task_title": "Matematika haqida",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-13T07:18:28.000000Z",
+    "url": "https://robocontest.uz/attempts/2742533",
+    "file": "0416_Matematika_haqida.py"
+  },
+  {
+    "attempt_id": 2737760,
+    "task_number": "0567",
+    "task_title": "Mul & add",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T15:27:36.000000Z",
+    "url": "https://robocontest.uz/attempts/2737760",
+    "file": "0567_Mul_&_add.py"
+  },
+  {
+    "attempt_id": 2737529,
+    "task_number": "R056E",
+    "task_title": "2 and 3 #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T15:09:32.000000Z",
+    "url": "https://robocontest.uz/attempts/2737529",
+    "file": "R056E_2_and_3_#1.py"
+  },
+  {
+    "attempt_id": 2737265,
+    "task_number": "R038H",
+    "task_title": "Massivdan o’chirish",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T14:32:05.000000Z",
+    "url": "https://robocontest.uz/attempts/2737265",
+    "file": "R038H_Massivdan_o’chirish.py"
+  },
+  {
+    "attempt_id": 2736444,
+    "task_number": "M054J",
+    "task_title": "Necha xonali son #2",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-12T11:58:59.000000Z",
+    "url": "https://robocontest.uz/attempts/2736444",
+    "file": "M054J_Necha_xonali_son_#2.py"
+  },
+  {
+    "attempt_id": 2735745,
+    "task_number": "M016P",
+    "task_title": "Eng yaqin tub son",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-12T11:03:55.000000Z",
+    "url": "https://robocontest.uz/attempts/2735745",
+    "file": "M016P_Eng_yaqin_tub_son.py"
+  },
+  {
+    "attempt_id": 2731924,
+    "task_number": "M019A",
+    "task_title": "MOD %3",
+    "language": "python2",
+    "status": "Accepted",
+    "created_at": "2023-10-12T08:41:36.000000Z",
+    "url": "https://robocontest.uz/attempts/2731924",
+    "file": "M019A_MOD_%3.py"
+  },
+  {
+    "attempt_id": 2731790,
+    "task_number": "A0025",
+    "task_title": "Virus vs Immunitet",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-12T08:31:32.000000Z",
+    "url": "https://robocontest.uz/attempts/2731790",
+    "file": "A0025_Virus_vs_Immunitet.py"
+  },
+  {
+    "attempt_id": 2728722,
+    "task_number": "M009B",
+    "task_title": "Toq sonlar guruhi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T04:37:23.000000Z",
+    "url": "https://robocontest.uz/attempts/2728722",
+    "file": "M009B_Toq_sonlar_guruhi.py"
+  },
+  {
+    "attempt_id": 2728700,
+    "task_number": "M016J",
+    "task_title": "Beshburchaklar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T04:36:23.000000Z",
+    "url": "https://robocontest.uz/attempts/2728700",
+    "file": "M016J_Beshburchaklar_soni.py"
+  },
+  {
+    "attempt_id": 2727848,
+    "task_number": "0641",
+    "task_title": "Tenglik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:55:54.000000Z",
+    "url": "https://robocontest.uz/attempts/2727848",
+    "file": "0641_Tenglik.py"
+  },
+  {
+    "attempt_id": 2727378,
+    "task_number": "R003C",
+    "task_title": "Teskari kodlash 2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:17:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2727378",
+    "file": "R003C_Teskari_kodlash_2.py"
+  },
+  {
+    "attempt_id": 2727371,
+    "task_number": "R002E",
+    "task_title": "Teskari kodlash 1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:16:34.000000Z",
+    "url": "https://robocontest.uz/attempts/2727371",
+    "file": "R002E_Teskari_kodlash_1.py"
+  },
+  {
+    "attempt_id": 2727353,
+    "task_number": "M001A",
+    "task_title": "Variant",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:14:54.000000Z",
+    "url": "https://robocontest.uz/attempts/2727353",
+    "file": "M001A_Variant.py"
+  },
+  {
+    "attempt_id": 2727327,
+    "task_number": "A0021",
+    "task_title": "Smith soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:12:40.000000Z",
+    "url": "https://robocontest.uz/attempts/2727327",
+    "file": "A0021_Smith_soni.py"
+  },
+  {
+    "attempt_id": 2727323,
+    "task_number": "A0019",
+    "task_title": "Ko'zalar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:12:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2727323",
+    "file": "A0019_Ko'zalar.py"
+  },
+  {
+    "attempt_id": 2727313,
+    "task_number": "A0015",
+    "task_title": "Raqamlangan to'plar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:10:44.000000Z",
+    "url": "https://robocontest.uz/attempts/2727313",
+    "file": "A0015_Raqamlangan_to'plar.py"
+  },
+  {
+    "attempt_id": 2727307,
+    "task_number": "R001D",
+    "task_title": "Natural son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:09:17.000000Z",
+    "url": "https://robocontest.uz/attempts/2727307",
+    "file": "R001D_Natural_son.py"
+  },
+  {
+    "attempt_id": 2727304,
+    "task_number": "A0006",
+    "task_title": "O'yin",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:08:30.000000Z",
+    "url": "https://robocontest.uz/attempts/2727304",
+    "file": "A0006_O'yin.py"
+  },
+  {
+    "attempt_id": 2727282,
+    "task_number": "A0014",
+    "task_title": "Ketma-ketlik yig'indisi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-12T03:04:07.000000Z",
+    "url": "https://robocontest.uz/attempts/2727282",
+    "file": "A0014_Ketma-ketlik_yig'indisi.py"
+  },
+  {
+    "attempt_id": 2722144,
+    "task_number": "M054L",
+    "task_title": "Necha xonali son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-11T08:40:37.000000Z",
+    "url": "https://robocontest.uz/attempts/2722144",
+    "file": "M054L_Necha_xonali_son.py"
+  },
+  {
+    "attempt_id": 2717120,
+    "task_number": "0812",
+    "task_title": "O'zing topda shartini.",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-10T15:00:22.000000Z",
+    "url": "https://robocontest.uz/attempts/2717120",
+    "file": "0812_O'zing_topda_shartini.py"
+  },
+  {
+    "attempt_id": 2710395,
+    "task_number": "R069A",
+    "task_title": "Playoff #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-10T05:50:39.000000Z",
+    "url": "https://robocontest.uz/attempts/2710395",
+    "file": "R069A_Playoff_#1.py"
+  },
+  {
+    "attempt_id": 2709763,
+    "task_number": "A0028",
+    "task_title": "O’ylangan son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-10T05:10:00.000000Z",
+    "url": "https://robocontest.uz/attempts/2709763",
+    "file": "A0028_O’ylangan_son.py"
+  },
+  {
+    "attempt_id": 2709689,
+    "task_number": "R074I",
+    "task_title": "Murakkabroq converter 1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-10T05:03:37.000000Z",
+    "url": "https://robocontest.uz/attempts/2709689",
+    "file": "R074I_Murakkabroq_converter_1.py"
+  },
+  {
+    "attempt_id": 2709677,
+    "task_number": "M017C",
+    "task_title": "Narisistik raqam",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-10T05:03:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2709677",
+    "file": "M017C_Narisistik_raqam.py"
+  },
+  {
+    "attempt_id": 2709644,
+    "task_number": "R035B",
+    "task_title": "DK xiyoboni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-10T05:00:55.000000Z",
+    "url": "https://robocontest.uz/attempts/2709644",
+    "file": "R035B_DK_xiyoboni.py"
+  },
+  {
+    "attempt_id": 2709617,
+    "task_number": "R043C",
+    "task_title": "Bilmasvoyga yordam",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-10T04:59:38.000000Z",
+    "url": "https://robocontest.uz/attempts/2709617",
+    "file": "R043C_Bilmasvoyga_yordam.py"
+  },
+  {
+    "attempt_id": 2709568,
+    "task_number": "R056J",
+    "task_title": "Alohida bo'luvchilar soni #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-10T04:56:46.000000Z",
+    "url": "https://robocontest.uz/attempts/2709568",
+    "file": "R056J_Alohida_bo'luvchilar_soni_#2.py"
+  },
+  {
+    "attempt_id": 2686458,
+    "task_number": "0513",
+    "task_title": "Color Mania",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-06T07:15:19.000000Z",
+    "url": "https://robocontest.uz/attempts/2686458",
+    "file": "0513_Color_Mania.py"
+  },
+  {
+    "attempt_id": 2683238,
+    "task_number": "0692",
+    "task_title": "Cheksiz ketma-ketlik",
+    "language": "pypy",
+    "status": "Accepted",
+    "created_at": "2023-10-05T15:28:19.000000Z",
+    "url": "https://robocontest.uz/attempts/2683238",
+    "file": "0692_Cheksiz_ketma-ketlik.py"
+  },
+  {
+    "attempt_id": 2683164,
+    "task_number": "M014A",
+    "task_title": "Robot",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T15:08:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2683164",
+    "file": "M014A_Robot.py"
+  },
+  {
+    "attempt_id": 2683124,
+    "task_number": "R044D",
+    "task_title": "Uch o’quvchi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T15:01:38.000000Z",
+    "url": "https://robocontest.uz/attempts/2683124",
+    "file": "R044D_Uch_o’quvchi.py"
+  },
+  {
+    "attempt_id": 2683067,
+    "task_number": "A0067",
+    "task_title": "Literal qiymat",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T14:50:15.000000Z",
+    "url": "https://robocontest.uz/attempts/2683067",
+    "file": "A0067_Literal_qiymat.py"
+  },
+  {
+    "attempt_id": 2682840,
+    "task_number": "M019D",
+    "task_title": "n xonali",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T14:08:26.000000Z",
+    "url": "https://robocontest.uz/attempts/2682840",
+    "file": "M019D_n_xonali.py"
+  },
+  {
+    "attempt_id": 2681352,
+    "task_number": "0445",
+    "task_title": "Buratinoning sovg'asi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T10:32:19.000000Z",
+    "url": "https://robocontest.uz/attempts/2681352",
+    "file": "0445_Buratinoning_sovg'asi.py"
+  },
+  {
+    "attempt_id": 2681166,
+    "task_number": "R048D",
+    "task_title": "Eng katta EKUB – 2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T10:14:11.000000Z",
+    "url": "https://robocontest.uz/attempts/2681166",
+    "file": "R048D_Eng_katta_EKUB_–_2.py"
+  },
+  {
+    "attempt_id": 2680399,
+    "task_number": "R036A",
+    "task_title": "Nokia",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T08:45:10.000000Z",
+    "url": "https://robocontest.uz/attempts/2680399",
+    "file": "R036A_Nokia.py"
+  },
+  {
+    "attempt_id": 2678645,
+    "task_number": "R033C",
+    "task_title": "Min-Max",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T05:38:07.000000Z",
+    "url": "https://robocontest.uz/attempts/2678645",
+    "file": "R033C_Min-Max.py"
+  },
+  {
+    "attempt_id": 2677496,
+    "task_number": "0564",
+    "task_title": "Azimjon \"Omad shou\"da",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-05T03:59:45.000000Z",
+    "url": "https://robocontest.uz/attempts/2677496",
+    "file": "0564_Azimjon_Omad_shou_da.py"
+  },
+  {
+    "attempt_id": 2676788,
+    "task_number": "A0090",
+    "task_title": "Yordamchi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T16:28:40.000000Z",
+    "url": "https://robocontest.uz/attempts/2676788",
+    "file": "A0090_Yordamchi.py"
+  },
+  {
+    "attempt_id": 2676728,
+    "task_number": "NRH8AFXN6P",
+    "task_title": "While #5",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T16:06:21.000000Z",
+    "url": "https://robocontest.uz/attempts/2676728",
+    "file": "NRH8AFXN6P_While_#5.py"
+  },
+  {
+    "attempt_id": 2673516,
+    "task_number": "PWCULQPLGM",
+    "task_title": "17",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:42:36.000000Z",
+    "url": "https://robocontest.uz/attempts/2673516",
+    "file": "PWCULQPLGM_17.py"
+  },
+  {
+    "attempt_id": 2673475,
+    "task_number": "CVPKHDPOFZ",
+    "task_title": "While #4",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:38:42.000000Z",
+    "url": "https://robocontest.uz/attempts/2673475",
+    "file": "CVPKHDPOFZ_While_#4.py"
+  },
+  {
+    "attempt_id": 2673459,
+    "task_number": "JBMTUDWDZT",
+    "task_title": "While #3",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:37:08.000000Z",
+    "url": "https://robocontest.uz/attempts/2673459",
+    "file": "JBMTUDWDZT_While_#3.py"
+  },
+  {
+    "attempt_id": 2673454,
+    "task_number": "IEMTOWCWFL",
+    "task_title": "While #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:36:18.000000Z",
+    "url": "https://robocontest.uz/attempts/2673454",
+    "file": "IEMTOWCWFL_While_#2.py"
+  },
+  {
+    "attempt_id": 2673436,
+    "task_number": "QNWA1CAEAU",
+    "task_title": "While #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:33:19.000000Z",
+    "url": "https://robocontest.uz/attempts/2673436",
+    "file": "QNWA1CAEAU_While_#1.py"
+  },
+  {
+    "attempt_id": 2673411,
+    "task_number": "RRLWDAPOPB",
+    "task_title": "For 1.8",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:30:16.000000Z",
+    "url": "https://robocontest.uz/attempts/2673411",
+    "file": "RRLWDAPOPB_For_1.8.py"
+  },
+  {
+    "attempt_id": 2673401,
+    "task_number": "IKKJU7EY2T",
+    "task_title": "For 1.7",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:28:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2673401",
+    "file": "IKKJU7EY2T_For_1.7.py"
+  },
+  {
+    "attempt_id": 2673391,
+    "task_number": "VE6IL14JHP",
+    "task_title": "For 1.6",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:26:50.000000Z",
+    "url": "https://robocontest.uz/attempts/2673391",
+    "file": "VE6IL14JHP_For_1.6.py"
+  },
+  {
+    "attempt_id": 2673379,
+    "task_number": "032D3X3BRH",
+    "task_title": "For 1.5",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:24:37.000000Z",
+    "url": "https://robocontest.uz/attempts/2673379",
+    "file": "032D3X3BRH_For_1.5.py"
+  },
+  {
+    "attempt_id": 2673374,
+    "task_number": "ELNDT6KHSP",
+    "task_title": "For 1.1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:23:33.000000Z",
+    "url": "https://robocontest.uz/attempts/2673374",
+    "file": "ELNDT6KHSP_For_1.1.py"
+  },
+  {
+    "attempt_id": 2673372,
+    "task_number": "L9D4KDAA3Y",
+    "task_title": "Function #5",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:23:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2673372",
+    "file": "L9D4KDAA3Y_Function_#5.py"
+  },
+  {
+    "attempt_id": 2673363,
+    "task_number": "SPYOALB4XG",
+    "task_title": "Function #4",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:21:27.000000Z",
+    "url": "https://robocontest.uz/attempts/2673363",
+    "file": "SPYOALB4XG_Function_#4.py"
+  },
+  {
+    "attempt_id": 2673355,
+    "task_number": "VAXXMBL35Q",
+    "task_title": "Function #3",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:19:58.000000Z",
+    "url": "https://robocontest.uz/attempts/2673355",
+    "file": "VAXXMBL35Q_Function_#3.py"
+  },
+  {
+    "attempt_id": 2673352,
+    "task_number": "OHMKQ2MTEK",
+    "task_title": "Function #2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:18:42.000000Z",
+    "url": "https://robocontest.uz/attempts/2673352",
+    "file": "OHMKQ2MTEK_Function_#2.py"
+  },
+  {
+    "attempt_id": 2673339,
+    "task_number": "MM2G0VC228",
+    "task_title": "Function #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:16:20.000000Z",
+    "url": "https://robocontest.uz/attempts/2673339",
+    "file": "MM2G0VC228_Function_#1.py"
+  },
+  {
+    "attempt_id": 2673334,
+    "task_number": "ZPJHICJRER",
+    "task_title": "if 2.8",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:15:22.000000Z",
+    "url": "https://robocontest.uz/attempts/2673334",
+    "file": "ZPJHICJRER_if_2.8.py"
+  },
+  {
+    "attempt_id": 2673318,
+    "task_number": "BEFDWW92XO",
+    "task_title": "if 2.9",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:12:52.000000Z",
+    "url": "https://robocontest.uz/attempts/2673318",
+    "file": "BEFDWW92XO_if_2.9.py"
+  },
+  {
+    "attempt_id": 2673308,
+    "task_number": "MXJ2FCAEOQ",
+    "task_title": "if 2.10",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:11:21.000000Z",
+    "url": "https://robocontest.uz/attempts/2673308",
+    "file": "MXJ2FCAEOQ_if_2.10.py"
+  },
+  {
+    "attempt_id": 2673264,
+    "task_number": "30EMZDHQTN",
+    "task_title": "if 2.11",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T08:05:08.000000Z",
+    "url": "https://robocontest.uz/attempts/2673264",
+    "file": "30EMZDHQTN_if_2.11.py"
+  },
+  {
+    "attempt_id": 2673176,
+    "task_number": "ZKLKTPRVR9",
+    "task_title": "if 1.7",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:50:13.000000Z",
+    "url": "https://robocontest.uz/attempts/2673176",
+    "file": "ZKLKTPRVR9_if_1.7.py"
+  },
+  {
+    "attempt_id": 2673169,
+    "task_number": "UHP62T8GI5",
+    "task_title": "if 1.8",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:49:16.000000Z",
+    "url": "https://robocontest.uz/attempts/2673169",
+    "file": "UHP62T8GI5_if_1.8.py"
+  },
+  {
+    "attempt_id": 2673165,
+    "task_number": "4VY8RZW2UE",
+    "task_title": "if 1.9",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:48:31.000000Z",
+    "url": "https://robocontest.uz/attempts/2673165",
+    "file": "4VY8RZW2UE_if_1.9.py"
+  },
+  {
+    "attempt_id": 2673162,
+    "task_number": "EOKOROHVMG",
+    "task_title": "if 2.12",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:47:54.000000Z",
+    "url": "https://robocontest.uz/attempts/2673162",
+    "file": "EOKOROHVMG_if_2.12.py"
+  },
+  {
+    "attempt_id": 2673159,
+    "task_number": "3O1MBIHAEC",
+    "task_title": "math_15",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:47:14.000000Z",
+    "url": "https://robocontest.uz/attempts/2673159",
+    "file": "3O1MBIHAEC_math_15.py"
+  },
+  {
+    "attempt_id": 2673132,
+    "task_number": "3LJ0NOI5BE",
+    "task_title": "math_14",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:41:23.000000Z",
+    "url": "https://robocontest.uz/attempts/2673132",
+    "file": "3LJ0NOI5BE_math_14.py"
+  },
+  {
+    "attempt_id": 2673076,
+    "task_number": "QPI7ZQJ0FX",
+    "task_title": "math_16",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:33:30.000000Z",
+    "url": "https://robocontest.uz/attempts/2673076",
+    "file": "QPI7ZQJ0FX_math_16.py"
+  },
+  {
+    "attempt_id": 2673064,
+    "task_number": "5NQOGBVSJV",
+    "task_title": "math_21",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:31:12.000000Z",
+    "url": "https://robocontest.uz/attempts/2673064",
+    "file": "5NQOGBVSJV_math_21.py"
+  },
+  {
+    "attempt_id": 2673056,
+    "task_number": "7LRAQPWHVE",
+    "task_title": "math_2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:29:59.000000Z",
+    "url": "https://robocontest.uz/attempts/2673056",
+    "file": "7LRAQPWHVE_math_2.py"
+  },
+  {
+    "attempt_id": 2673048,
+    "task_number": "UROUVEE8T8",
+    "task_title": "cin 1.2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:28:57.000000Z",
+    "url": "https://robocontest.uz/attempts/2673048",
+    "file": "UROUVEE8T8_cin_1.2.py"
+  },
+  {
+    "attempt_id": 2673025,
+    "task_number": "QPMULFRB7P",
+    "task_title": "cout 1.6",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:26:02.000000Z",
+    "url": "https://robocontest.uz/attempts/2673025",
+    "file": "QPMULFRB7P_cout_1.6.py"
+  },
+  {
+    "attempt_id": 2673021,
+    "task_number": "9LSHEHOP45",
+    "task_title": "cout 1.2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:25:39.000000Z",
+    "url": "https://robocontest.uz/attempts/2673021",
+    "file": "9LSHEHOP45_cout_1.2.py"
+  },
+  {
+    "attempt_id": 2673016,
+    "task_number": "3APDXRDTDT",
+    "task_title": "cout 1.1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:24:36.000000Z",
+    "url": "https://robocontest.uz/attempts/2673016",
+    "file": "3APDXRDTDT_cout_1.1.py"
+  },
+  {
+    "attempt_id": 2672962,
+    "task_number": "3ZZLOZKY8A",
+    "task_title": "Murakkab son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:18:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2672962",
+    "file": "3ZZLOZKY8A_Murakkab_son.py"
+  },
+  {
+    "attempt_id": 2672917,
+    "task_number": "M016L",
+    "task_title": "Zina poya",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-04T07:10:24.000000Z",
+    "url": "https://robocontest.uz/attempts/2672917",
+    "file": "M016L_Zina_poya.py"
+  },
+  {
+    "attempt_id": 2670110,
+    "task_number": "0818",
+    "task_title": "IELTS #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T16:28:00.000000Z",
+    "url": "https://robocontest.uz/attempts/2670110",
+    "file": "0818_IELTS_#1.py"
+  },
+  {
+    "attempt_id": 2669915,
+    "task_number": "0551",
+    "task_title": "Prefiks satr",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T15:52:09.000000Z",
+    "url": "https://robocontest.uz/attempts/2669915",
+    "file": "0551_Prefiks_satr.py"
+  },
+  {
+    "attempt_id": 2669913,
+    "task_number": "0697",
+    "task_title": "Game the name",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T15:51:46.000000Z",
+    "url": "https://robocontest.uz/attempts/2669913",
+    "file": "0697_Game_the_name.py"
+  },
+  {
+    "attempt_id": 2669873,
+    "task_number": "R066A",
+    "task_title": "Eng kichik natural son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T15:40:13.000000Z",
+    "url": "https://robocontest.uz/attempts/2669873",
+    "file": "R066A_Eng_kichik_natural_son.py"
+  },
+  {
+    "attempt_id": 2669611,
+    "task_number": "0819",
+    "task_title": "Shokoladxo'r",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T14:47:17.000000Z",
+    "url": "https://robocontest.uz/attempts/2669611",
+    "file": "0819_Shokoladxo'r.py"
+  },
+  {
+    "attempt_id": 2669590,
+    "task_number": "0562",
+    "task_title": "Sumalak toshlari",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T14:41:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2669590",
+    "file": "0562_Sumalak_toshlari.py"
+  },
+  {
+    "attempt_id": 2668562,
+    "task_number": "0870",
+    "task_title": "Sardor va uning buvisi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T11:15:43.000000Z",
+    "url": "https://robocontest.uz/attempts/2668562",
+    "file": "0870_Sardor_va_uning_buvisi.py"
+  },
+  {
+    "attempt_id": 2667063,
+    "task_number": "R053B",
+    "task_title": "Uchburchakli sonlar 3",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T09:10:34.000000Z",
+    "url": "https://robocontest.uz/attempts/2667063",
+    "file": "R053B_Uchburchakli_sonlar_3.py"
+  },
+  {
+    "attempt_id": 2666508,
+    "task_number": "R007B",
+    "task_title": "Uchburchak",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T07:52:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2666508",
+    "file": "R007B_Uchburchak.py"
+  },
+  {
+    "attempt_id": 2666469,
+    "task_number": "R005C",
+    "task_title": "Beshburchakli sonlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T07:47:36.000000Z",
+    "url": "https://robocontest.uz/attempts/2666469",
+    "file": "R005C_Beshburchakli_sonlar.py"
+  },
+  {
+    "attempt_id": 2666450,
+    "task_number": "R005D",
+    "task_title": "Oltiburchakli sonlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T07:43:19.000000Z",
+    "url": "https://robocontest.uz/attempts/2666450",
+    "file": "R005D_Oltiburchakli_sonlar.py"
+  },
+  {
+    "attempt_id": 2666331,
+    "task_number": "0573",
+    "task_title": "Azimjonning \"Budilnik\"i",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T07:24:10.000000Z",
+    "url": "https://robocontest.uz/attempts/2666331",
+    "file": "0573_Azimjonning_Budilnik_i.py"
+  },
+  {
+    "attempt_id": 2666222,
+    "task_number": "R054D",
+    "task_title": "Quvnoq \"zoo\"",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T07:11:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2666222",
+    "file": "R054D_Quvnoq_zoo.py"
+  },
+  {
+    "attempt_id": 2665120,
+    "task_number": "R001C",
+    "task_title": "Virus №3",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T04:55:16.000000Z",
+    "url": "https://robocontest.uz/attempts/2665120",
+    "file": "R001C_Virus_№3.py"
+  },
+  {
+    "attempt_id": 2664953,
+    "task_number": "0614",
+    "task_title": "Suv",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T04:39:02.000000Z",
+    "url": "https://robocontest.uz/attempts/2664953",
+    "file": "0614_Suv.py"
+  },
+  {
+    "attempt_id": 2664806,
+    "task_number": "0651",
+    "task_title": "Uchburchak balandligi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-10-03T04:23:47.000000Z",
+    "url": "https://robocontest.uz/attempts/2664806",
+    "file": "0651_Uchburchak_balandligi.py"
+  },
+  {
+    "attempt_id": 2657688,
+    "task_number": "0425",
+    "task_title": "Robocontest",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-30T05:00:28.000000Z",
+    "url": "https://robocontest.uz/attempts/2657688",
+    "file": "0425_Robocontest.py"
+  },
+  {
+    "attempt_id": 2655254,
+    "task_number": "M004A",
+    "task_title": "Yig’indi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-29T10:50:32.000000Z",
+    "url": "https://robocontest.uz/attempts/2655254",
+    "file": "M004A_Yig’indi.py"
+  },
+  {
+    "attempt_id": 2653280,
+    "task_number": "R004C",
+    "task_title": "Teskari kodlash 3",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-29T07:45:54.000000Z",
+    "url": "https://robocontest.uz/attempts/2653280",
+    "file": "R004C_Teskari_kodlash_3.py"
+  },
+  {
+    "attempt_id": 2652808,
+    "task_number": "R057A",
+    "task_title": "Tana vazn indeksi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-29T06:42:33.000000Z",
+    "url": "https://robocontest.uz/attempts/2652808",
+    "file": "R057A_Tana_vazn_indeksi.py"
+  },
+  {
+    "attempt_id": 2652148,
+    "task_number": "M016A",
+    "task_title": "Sanoq sistemasi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-29T05:17:28.000000Z",
+    "url": "https://robocontest.uz/attempts/2652148",
+    "file": "M016A_Sanoq_sistemasi.py"
+  },
+  {
+    "attempt_id": 2651892,
+    "task_number": "0443",
+    "task_title": "Jaxli chiqqan soat",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-29T04:50:40.000000Z",
+    "url": "https://robocontest.uz/attempts/2651892",
+    "file": "0443_Jaxli_chiqqan_soat.py"
+  },
+  {
+    "attempt_id": 2651505,
+    "task_number": "M033C",
+    "task_title": "Univer-Dasturlash-Labaratoriya!",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-29T04:16:30.000000Z",
+    "url": "https://robocontest.uz/attempts/2651505",
+    "file": "M033C_Univer-Dasturlash-Labaratoriya!.py"
+  },
+  {
+    "attempt_id": 2651231,
+    "task_number": "R043E",
+    "task_title": "Nisbat 2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-29T03:46:09.000000Z",
+    "url": "https://robocontest.uz/attempts/2651231",
+    "file": "R043E_Nisbat_2.py"
+  },
+  {
+    "attempt_id": 2651212,
+    "task_number": "R053E",
+    "task_title": "Ikkilik nisbat",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-29T03:42:32.000000Z",
+    "url": "https://robocontest.uz/attempts/2651212",
+    "file": "R053E_Ikkilik_nisbat.py"
+  },
+  {
+    "attempt_id": 2644437,
+    "task_number": "R064D",
+    "task_title": "Tangens pi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-28T05:34:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2644437",
+    "file": "R064D_Tangens_pi.py"
+  },
+  {
+    "attempt_id": 2643721,
+    "task_number": "R005E",
+    "task_title": "Bayram torti",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-28T04:28:48.000000Z",
+    "url": "https://robocontest.uz/attempts/2643721",
+    "file": "R005E_Bayram_torti.py"
+  },
+  {
+    "attempt_id": 2643493,
+    "task_number": "0524",
+    "task_title": "Nokia Racing GaMe",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-28T04:00:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2643493",
+    "file": "0524_Nokia_Racing_GaMe.py"
+  },
+  {
+    "attempt_id": 2643352,
+    "task_number": "R041A",
+    "task_title": "Shifrlash 1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-28T03:32:52.000000Z",
+    "url": "https://robocontest.uz/attempts/2643352",
+    "file": "R041A_Shifrlash_1.py"
+  },
+  {
+    "attempt_id": 2642039,
+    "task_number": "0843",
+    "task_title": "Oxirgi raqam.",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-27T14:20:14.000000Z",
+    "url": "https://robocontest.uz/attempts/2642039",
+    "file": "0843_Oxirgi_raqam.py"
+  },
+  {
+    "attempt_id": 2638081,
+    "task_number": "M016I",
+    "task_title": "So’zning teskarisi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-27T07:49:16.000000Z",
+    "url": "https://robocontest.uz/attempts/2638081",
+    "file": "M016I_So’zning_teskarisi.py"
+  },
+  {
+    "attempt_id": 2637967,
+    "task_number": "M008A",
+    "task_title": "Sezar shifrlash algoritmi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-27T07:36:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2637967",
+    "file": "M008A_Sezar_shifrlash_algoritmi.py"
+  },
+  {
+    "attempt_id": 2637879,
+    "task_number": "M019F",
+    "task_title": "Ketma ketlik math",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-27T07:26:31.000000Z",
+    "url": "https://robocontest.uz/attempts/2637879",
+    "file": "M019F_Ketma_ketlik_math.py"
+  },
+  {
+    "attempt_id": 2637732,
+    "task_number": "0615",
+    "task_title": "Raqamlari yig'indisi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-27T07:13:24.000000Z",
+    "url": "https://robocontest.uz/attempts/2637732",
+    "file": "0615_Raqamlari_yig'indisi.py"
+  },
+  {
+    "attempt_id": 2635573,
+    "task_number": "A0007",
+    "task_title": "Sehrli kvadrat",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-27T03:33:45.000000Z",
+    "url": "https://robocontest.uz/attempts/2635573",
+    "file": "A0007_Sehrli_kvadrat.py"
+  },
+  {
+    "attempt_id": 2635559,
+    "task_number": "0837",
+    "task_title": "Chala matematik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-27T03:29:21.000000Z",
+    "url": "https://robocontest.uz/attempts/2635559",
+    "file": "0837_Chala_matematik.py"
+  },
+  {
+    "attempt_id": 2627848,
+    "task_number": "0693",
+    "task_title": "Teskari So’zlardan iborat Matn",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-26T05:01:28.000000Z",
+    "url": "https://robocontest.uz/attempts/2627848",
+    "file": "0693_Teskari_So’zlardan_iborat_Matn.py"
+  },
+  {
+    "attempt_id": 2627429,
+    "task_number": "0514",
+    "task_title": "Foiz1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-26T04:27:08.000000Z",
+    "url": "https://robocontest.uz/attempts/2627429",
+    "file": "0514_Foiz1.py"
+  },
+  {
+    "attempt_id": 2627381,
+    "task_number": "0515",
+    "task_title": "Foiz2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-26T04:23:17.000000Z",
+    "url": "https://robocontest.uz/attempts/2627381",
+    "file": "0515_Foiz2.py"
+  },
+  {
+    "attempt_id": 2625851,
+    "task_number": "R072A",
+    "task_title": "Toq va juft",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T16:14:44.000000Z",
+    "url": "https://robocontest.uz/attempts/2625851",
+    "file": "R072A_Toq_va_juft.py"
+  },
+  {
+    "attempt_id": 2625841,
+    "task_number": "R046B",
+    "task_title": "Ko’pburchak yig’indisi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T16:11:59.000000Z",
+    "url": "https://robocontest.uz/attempts/2625841",
+    "file": "R046B_Ko’pburchak_yig’indisi.py"
+  },
+  {
+    "attempt_id": 2625831,
+    "task_number": "R063A",
+    "task_title": "Tarvuz",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T16:09:18.000000Z",
+    "url": "https://robocontest.uz/attempts/2625831",
+    "file": "R063A_Tarvuz.py"
+  },
+  {
+    "attempt_id": 2624448,
+    "task_number": "0829",
+    "task_title": "Eski batareyalar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T11:54:52.000000Z",
+    "url": "https://robocontest.uz/attempts/2624448",
+    "file": "0829_Eski_batareyalar.py"
+  },
+  {
+    "attempt_id": 2623931,
+    "task_number": "R001B",
+    "task_title": "Virus №2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T11:22:55.000000Z",
+    "url": "https://robocontest.uz/attempts/2623931",
+    "file": "R001B_Virus_№2.py"
+  },
+  {
+    "attempt_id": 2620929,
+    "task_number": "A0069",
+    "task_title": "International morse decoder",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T06:45:32.000000Z",
+    "url": "https://robocontest.uz/attempts/2620929",
+    "file": "A0069_International_morse_decoder.py"
+  },
+  {
+    "attempt_id": 2620248,
+    "task_number": "R075A",
+    "task_title": "Pozitsiyalar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T05:09:37.000000Z",
+    "url": "https://robocontest.uz/attempts/2620248",
+    "file": "R075A_Pozitsiyalar_soni.py"
+  },
+  {
+    "attempt_id": 2620163,
+    "task_number": "0874",
+    "task_title": "Shifrlangan xabar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T04:59:16.000000Z",
+    "url": "https://robocontest.uz/attempts/2620163",
+    "file": "0874_Shifrlangan_xabar.py"
+  },
+  {
+    "attempt_id": 2619658,
+    "task_number": "0808",
+    "task_title": "Password Random",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T04:07:08.000000Z",
+    "url": "https://robocontest.uz/attempts/2619658",
+    "file": "0808_Password_Random.py"
+  },
+  {
+    "attempt_id": 2619506,
+    "task_number": "R059B",
+    "task_title": "Robo Password",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-25T03:35:56.000000Z",
+    "url": "https://robocontest.uz/attempts/2619506",
+    "file": "R059B_Robo_Password.py"
+  },
+  {
+    "attempt_id": 2611329,
+    "task_number": "A0102",
+    "task_title": "Fantastik to'rtlik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-23T04:46:24.000000Z",
+    "url": "https://robocontest.uz/attempts/2611329",
+    "file": "A0102_Fantastik_to'rtlik.py"
+  },
+  {
+    "attempt_id": 2610046,
+    "task_number": "R058E",
+    "task_title": "Vaqt",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-22T16:05:35.000000Z",
+    "url": "https://robocontest.uz/attempts/2610046",
+    "file": "R058E_Vaqt.py"
+  },
+  {
+    "attempt_id": 2609805,
+    "task_number": "M052C",
+    "task_title": "Bill Gates va Jurnalist",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-22T15:11:16.000000Z",
+    "url": "https://robocontest.uz/attempts/2609805",
+    "file": "M052C_Bill_Gates_va_Jurnalist.py"
+  },
+  {
+    "attempt_id": 2609690,
+    "task_number": "M035A",
+    "task_title": "Xossani saqlang",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-22T14:43:51.000000Z",
+    "url": "https://robocontest.uz/attempts/2609690",
+    "file": "M035A_Xossani_saqlang.py"
+  },
+  {
+    "attempt_id": 2609681,
+    "task_number": "M053A",
+    "task_title": "Gugurt",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-22T14:41:46.000000Z",
+    "url": "https://robocontest.uz/attempts/2609681",
+    "file": "M053A_Gugurt.py"
+  },
+  {
+    "attempt_id": 2605492,
+    "task_number": "R003B",
+    "task_title": "Uchburchakli sonlar 2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-22T04:34:45.000000Z",
+    "url": "https://robocontest.uz/attempts/2605492",
+    "file": "R003B_Uchburchakli_sonlar_2.py"
+  },
+  {
+    "attempt_id": 2605169,
+    "task_number": "R074A",
+    "task_title": "Bilmasvoyning binar satri",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-22T04:01:42.000000Z",
+    "url": "https://robocontest.uz/attempts/2605169",
+    "file": "R074A_Bilmasvoyning_binar_satri.py"
+  },
+  {
+    "attempt_id": 2605135,
+    "task_number": "0946",
+    "task_title": "Sum space index.",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-22T03:58:56.000000Z",
+    "url": "https://robocontest.uz/attempts/2605135",
+    "file": "0946_Sum_space_index.py"
+  },
+  {
+    "attempt_id": 2604925,
+    "task_number": "M050B",
+    "task_title": "Karralilar yig'indisi",
+    "language": "python2",
+    "status": "Accepted",
+    "created_at": "2023-09-22T03:32:25.000000Z",
+    "url": "https://robocontest.uz/attempts/2604925",
+    "file": "M050B_Karralilar_yig'indisi.py"
+  },
+  {
+    "attempt_id": 2599177,
+    "task_number": "M019E",
+    "task_title": "Iftorlik vaqti",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-21T03:40:15.000000Z",
+    "url": "https://robocontest.uz/attempts/2599177",
+    "file": "M019E_Iftorlik_vaqti.py"
+  },
+  {
+    "attempt_id": 2599144,
+    "task_number": "0574",
+    "task_title": "Tap Away #1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-21T03:30:48.000000Z",
+    "url": "https://robocontest.uz/attempts/2599144",
+    "file": "0574_Tap_Away_#1.py"
+  },
+  {
+    "attempt_id": 2599078,
+    "task_number": "R037D",
+    "task_title": "Uzluksiz birlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-21T03:13:02.000000Z",
+    "url": "https://robocontest.uz/attempts/2599078",
+    "file": "R037D_Uzluksiz_birlar.py"
+  },
+  {
+    "attempt_id": 2593388,
+    "task_number": "R032H",
+    "task_title": "Ayniyat",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-20T04:00:40.000000Z",
+    "url": "https://robocontest.uz/attempts/2593388",
+    "file": "R032H_Ayniyat.py"
+  },
+  {
+    "attempt_id": 2593343,
+    "task_number": "R015A",
+    "task_title": "Kinguru",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-20T03:51:47.000000Z",
+    "url": "https://robocontest.uz/attempts/2593343",
+    "file": "R015A_Kinguru.py"
+  },
+  {
+    "attempt_id": 2592685,
+    "task_number": "R003A",
+    "task_title": "Floyd uchburchagi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-19T15:16:38.000000Z",
+    "url": "https://robocontest.uz/attempts/2592685",
+    "file": "R003A_Floyd_uchburchagi.py"
+  },
+  {
+    "attempt_id": 2586374,
+    "task_number": "R073F",
+    "task_title": "Gnameoning orzusi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-18T11:00:17.000000Z",
+    "url": "https://robocontest.uz/attempts/2586374",
+    "file": "R073F_Gnameoning_orzusi.py"
+  },
+  {
+    "attempt_id": 2586354,
+    "task_number": "M054A",
+    "task_title": "Raqamlar yig'indisi #k",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-18T10:58:17.000000Z",
+    "url": "https://robocontest.uz/attempts/2586354",
+    "file": "M054A_Raqamlar_yig'indisi_#k.py"
+  },
+  {
+    "attempt_id": 2584545,
+    "task_number": "M051F",
+    "task_title": "O'rtacha maosh",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-18T06:53:44.000000Z",
+    "url": "https://robocontest.uz/attempts/2584545",
+    "file": "M051F_O'rtacha_maosh.py"
+  },
+  {
+    "attempt_id": 2584115,
+    "task_number": "0947",
+    "task_title": "3-max.",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-18T05:27:44.000000Z",
+    "url": "https://robocontest.uz/attempts/2584115",
+    "file": "0947_3-max.py"
+  },
+  {
+    "attempt_id": 2583965,
+    "task_number": "A0093",
+    "task_title": "Knight game",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-18T04:59:46.000000Z",
+    "url": "https://robocontest.uz/attempts/2583965",
+    "file": "A0093_Knight_game.py"
+  },
+  {
+    "attempt_id": 2581376,
+    "task_number": "A0103",
+    "task_title": "Shaxmat",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-16T15:50:22.000000Z",
+    "url": "https://robocontest.uz/attempts/2581376",
+    "file": "A0103_Shaxmat.py"
+  },
+  {
+    "attempt_id": 2581372,
+    "task_number": "1054",
+    "task_title": "Tenglama",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-16T15:42:56.000000Z",
+    "url": "https://robocontest.uz/attempts/2581372",
+    "file": "1054_Tenglama.py"
+  },
+  {
+    "attempt_id": 2579333,
+    "task_number": "0823",
+    "task_title": "Oqimga qarshi tezlik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-16T05:32:46.000000Z",
+    "url": "https://robocontest.uz/attempts/2579333",
+    "file": "0823_Oqimga_qarshi_tezlik.py"
+  },
+  {
+    "attempt_id": 2579253,
+    "task_number": "M011B",
+    "task_title": "2-max",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-16T05:20:10.000000Z",
+    "url": "https://robocontest.uz/attempts/2579253",
+    "file": "M011B_2-max.py"
+  },
+  {
+    "attempt_id": 2578711,
+    "task_number": "0987",
+    "task_title": "Factorial and Gcd",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-16T03:22:33.000000Z",
+    "url": "https://robocontest.uz/attempts/2578711",
+    "file": "0987_Factorial_and_Gcd.py"
+  },
+  {
+    "attempt_id": 2576235,
+    "task_number": "M044A",
+    "task_title": "Tizimda jarima hisoblash",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-15T09:00:31.000000Z",
+    "url": "https://robocontest.uz/attempts/2576235",
+    "file": "M044A_Tizimda_jarima_hisoblash.py"
+  },
+  {
+    "attempt_id": 2575737,
+    "task_number": "M045A",
+    "task_title": "Omadsiz chipta",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-15T07:19:54.000000Z",
+    "url": "https://robocontest.uz/attempts/2575737",
+    "file": "M045A_Omadsiz_chipta.py"
+  },
+  {
+    "attempt_id": 2575203,
+    "task_number": "R077D",
+    "task_title": "a#b",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-15T05:50:42.000000Z",
+    "url": "https://robocontest.uz/attempts/2575203",
+    "file": "R077D_a#b.py"
+  },
+  {
+    "attempt_id": 2573989,
+    "task_number": "M050F",
+    "task_title": "Harorat",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T16:22:19.000000Z",
+    "url": "https://robocontest.uz/attempts/2573989",
+    "file": "M050F_Harorat.py"
+  },
+  {
+    "attempt_id": 2573613,
+    "task_number": "R003D",
+    "task_title": "Daraxtlarni yig'ish",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T14:37:10.000000Z",
+    "url": "https://robocontest.uz/attempts/2573613",
+    "file": "R003D_Daraxtlarni_yig'ish.py"
+  },
+  {
+    "attempt_id": 2573551,
+    "task_number": "R067I",
+    "task_title": "EKUK(a,b,c)",
+    "language": "python2",
+    "status": "Accepted",
+    "created_at": "2023-09-14T14:22:07.000000Z",
+    "url": "https://robocontest.uz/attempts/2573551",
+    "file": "R067I_EKUK(a,b,c).py"
+  },
+  {
+    "attempt_id": 2570577,
+    "task_number": "A0013",
+    "task_title": "Elektron soat",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T09:07:21.000000Z",
+    "url": "https://robocontest.uz/attempts/2570577",
+    "file": "A0013_Elektron_soat.py"
+  },
+  {
+    "attempt_id": 2570392,
+    "task_number": "M022A",
+    "task_title": "Simmetrik nuqta",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T08:52:35.000000Z",
+    "url": "https://robocontest.uz/attempts/2570392",
+    "file": "M022A_Simmetrik_nuqta.py"
+  },
+  {
+    "attempt_id": 2570354,
+    "task_number": "A0016",
+    "task_title": "Nuqta",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T08:48:52.000000Z",
+    "url": "https://robocontest.uz/attempts/2570354",
+    "file": "A0016_Nuqta.py"
+  },
+  {
+    "attempt_id": 2570317,
+    "task_number": "R080B",
+    "task_title": "Ali va Vali",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T08:45:03.000000Z",
+    "url": "https://robocontest.uz/attempts/2570317",
+    "file": "R080B_Ali_va_Vali.py"
+  },
+  {
+    "attempt_id": 2570146,
+    "task_number": "R064A",
+    "task_title": "Cube",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T08:22:09.000000Z",
+    "url": "https://robocontest.uz/attempts/2570146",
+    "file": "R064A_Cube.py"
+  },
+  {
+    "attempt_id": 2567205,
+    "task_number": "R054A",
+    "task_title": "Teng juftlik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T04:03:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2567205",
+    "file": "R054A_Teng_juftlik.py"
+  },
+  {
+    "attempt_id": 2567001,
+    "task_number": "A0004",
+    "task_title": "Yolg'iz son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T03:25:33.000000Z",
+    "url": "https://robocontest.uz/attempts/2567001",
+    "file": "A0004_Yolg'iz_son.py"
+  },
+  {
+    "attempt_id": 2566961,
+    "task_number": "0516",
+    "task_title": "Olma terish",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T03:15:58.000000Z",
+    "url": "https://robocontest.uz/attempts/2566961",
+    "file": "0516_Olma_terish.py"
+  },
+  {
+    "attempt_id": 2566946,
+    "task_number": "R031A",
+    "task_title": "To‘lov",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-14T03:11:24.000000Z",
+    "url": "https://robocontest.uz/attempts/2566946",
+    "file": "R031A_To‘lov.py"
+  },
+  {
+    "attempt_id": 2563148,
+    "task_number": "A0010",
+    "task_title": "Partalar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-13T09:02:49.000000Z",
+    "url": "https://robocontest.uz/attempts/2563148",
+    "file": "A0010_Partalar.py"
+  },
+  {
+    "attempt_id": 2562119,
+    "task_number": "A0002",
+    "task_title": "Dasturchilar kuni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-13T06:59:15.000000Z",
+    "url": "https://robocontest.uz/attempts/2562119",
+    "file": "A0002_Dasturchilar_kuni.py"
+  },
+  {
+    "attempt_id": 2561569,
+    "task_number": "R014E",
+    "task_title": "Baho",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-13T05:32:31.000000Z",
+    "url": "https://robocontest.uz/attempts/2561569",
+    "file": "R014E_Baho.py"
+  },
+  {
+    "attempt_id": 2561462,
+    "task_number": "A0012",
+    "task_title": "Vaqtlar oralig'i",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-13T05:19:40.000000Z",
+    "url": "https://robocontest.uz/attempts/2561462",
+    "file": "A0012_Vaqtlar_oralig'i.py"
+  },
+  {
+    "attempt_id": 2554648,
+    "task_number": "R052A",
+    "task_title": "Uy vazifasi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-11T07:31:54.000000Z",
+    "url": "https://robocontest.uz/attempts/2554648",
+    "file": "R052A_Uy_vazifasi.py"
+  },
+  {
+    "attempt_id": 2554380,
+    "task_number": "M018D",
+    "task_title": "O'yin",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-11T05:46:20.000000Z",
+    "url": "https://robocontest.uz/attempts/2554380",
+    "file": "M018D_O'yin.py"
+  },
+  {
+    "attempt_id": 2554377,
+    "task_number": "M016N",
+    "task_title": "O‘rdaklar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-11T05:45:09.000000Z",
+    "url": "https://robocontest.uz/attempts/2554377",
+    "file": "M016N_O‘rdaklar.py"
+  },
+  {
+    "attempt_id": 2554372,
+    "task_number": "R042A",
+    "task_title": "Imtihon daftarlari",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-11T05:43:16.000000Z",
+    "url": "https://robocontest.uz/attempts/2554372",
+    "file": "R042A_Imtihon_daftarlari.py"
+  },
+  {
+    "attempt_id": 2548554,
+    "task_number": "R047F",
+    "task_title": "Fasllar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T05:21:31.000000Z",
+    "url": "https://robocontest.uz/attempts/2548554",
+    "file": "R047F_Fasllar.py"
+  },
+  {
+    "attempt_id": 2548449,
+    "task_number": "M009D",
+    "task_title": "EKUB va EKUK",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:55:02.000000Z",
+    "url": "https://robocontest.uz/attempts/2548449",
+    "file": "M009D_EKUB_va_EKUK.py"
+  },
+  {
+    "attempt_id": 2548446,
+    "task_number": "R034G",
+    "task_title": "Koshi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:54:07.000000Z",
+    "url": "https://robocontest.uz/attempts/2548446",
+    "file": "R034G_Koshi.py"
+  },
+  {
+    "attempt_id": 2548439,
+    "task_number": "R009A",
+    "task_title": "Toshlar o’yini",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:50:51.000000Z",
+    "url": "https://robocontest.uz/attempts/2548439",
+    "file": "R009A_Toshlar_o’yini.py"
+  },
+  {
+    "attempt_id": 2548433,
+    "task_number": "R008A",
+    "task_title": "Sovg’a",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:49:41.000000Z",
+    "url": "https://robocontest.uz/attempts/2548433",
+    "file": "R008A_Sovg’a.py"
+  },
+  {
+    "attempt_id": 2548427,
+    "task_number": "R002B",
+    "task_title": "Kabisa yili",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:46:47.000000Z",
+    "url": "https://robocontest.uz/attempts/2548427",
+    "file": "R002B_Kabisa_yili.py"
+  },
+  {
+    "attempt_id": 2548419,
+    "task_number": "A0003",
+    "task_title": "Minimum va maksimum yig'indi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:43:35.000000Z",
+    "url": "https://robocontest.uz/attempts/2548419",
+    "file": "A0003_Minimum_va_maksimum_yig'indi.py"
+  },
+  {
+    "attempt_id": 2548415,
+    "task_number": "A0089",
+    "task_title": "3 kenguru",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:41:50.000000Z",
+    "url": "https://robocontest.uz/attempts/2548415",
+    "file": "A0089_3_kenguru.py"
+  },
+  {
+    "attempt_id": 2548404,
+    "task_number": "M050A",
+    "task_title": "Robolandiya(ro'yhatga olish)",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:39:05.000000Z",
+    "url": "https://robocontest.uz/attempts/2548404",
+    "file": "M050A_Robolandiya(ro'yhatga_olish).py"
+  },
+  {
+    "attempt_id": 2548392,
+    "task_number": "M032F",
+    "task_title": "Qurilmalar yetkazish",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:32:56.000000Z",
+    "url": "https://robocontest.uz/attempts/2548392",
+    "file": "M032F_Qurilmalar_yetkazish.py"
+  },
+  {
+    "attempt_id": 2548387,
+    "task_number": "0789",
+    "task_title": "Tub ko'paytma",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:31:48.000000Z",
+    "url": "https://robocontest.uz/attempts/2548387",
+    "file": "0789_Tub_ko'paytma.py"
+  },
+  {
+    "attempt_id": 2548382,
+    "task_number": "R047D",
+    "task_title": "Maosh",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-09T04:29:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2548382",
+    "file": "R047D_Maosh.py"
+  },
+  {
+    "attempt_id": 2546248,
+    "task_number": "R002C",
+    "task_title": "Uchburchakli sonlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T07:57:27.000000Z",
+    "url": "https://robocontest.uz/attempts/2546248",
+    "file": "R002C_Uchburchakli_sonlar.py"
+  },
+  {
+    "attempt_id": 2546194,
+    "task_number": "R007A",
+    "task_title": "Yig’indilar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T07:19:15.000000Z",
+    "url": "https://robocontest.uz/attempts/2546194",
+    "file": "R007A_Yig’indilar_soni.py"
+  },
+  {
+    "attempt_id": 2546170,
+    "task_number": "M051D",
+    "task_title": "G'aroyib yig'indi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T07:02:30.000000Z",
+    "url": "https://robocontest.uz/attempts/2546170",
+    "file": "M051D_G'aroyib_yig'indi.py"
+  },
+  {
+    "attempt_id": 2546163,
+    "task_number": "0520",
+    "task_title": "MINAB - funksiya",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T06:58:21.000000Z",
+    "url": "https://robocontest.uz/attempts/2546163",
+    "file": "0520_MINAB_-_funksiya.py"
+  },
+  {
+    "attempt_id": 2546161,
+    "task_number": "M017A",
+    "task_title": "10 ming qadam",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T06:57:34.000000Z",
+    "url": "https://robocontest.uz/attempts/2546161",
+    "file": "M017A_10_ming_qadam.py"
+  },
+  {
+    "attempt_id": 2546160,
+    "task_number": "R016B",
+    "task_title": "Azimjonning qo'ylari",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T06:57:05.000000Z",
+    "url": "https://robocontest.uz/attempts/2546160",
+    "file": "R016B_Azimjonning_qo'ylari.py"
+  },
+  {
+    "attempt_id": 2545923,
+    "task_number": "M044B",
+    "task_title": "Qiziqarli ketma-ketlik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T04:57:13.000000Z",
+    "url": "https://robocontest.uz/attempts/2545923",
+    "file": "M044B_Qiziqarli_ketma-ketlik.py"
+  },
+  {
+    "attempt_id": 2545914,
+    "task_number": "0498",
+    "task_title": "Azimjon va 37-avtobus",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T04:53:45.000000Z",
+    "url": "https://robocontest.uz/attempts/2545914",
+    "file": "0498_Azimjon_va_37-avtobus.py"
+  },
+  {
+    "attempt_id": 2545913,
+    "task_number": "0492",
+    "task_title": "Mashenik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T04:53:26.000000Z",
+    "url": "https://robocontest.uz/attempts/2545913",
+    "file": "0492_Mashenik.py"
+  },
+  {
+    "attempt_id": 2545905,
+    "task_number": "R018H",
+    "task_title": "Isfandiyor algebra darsida",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T04:49:45.000000Z",
+    "url": "https://robocontest.uz/attempts/2545905",
+    "file": "R018H_Isfandiyor_algebra_darsida.py"
+  },
+  {
+    "attempt_id": 2545867,
+    "task_number": "R004A",
+    "task_title": "Diagonallar soni",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T04:36:02.000000Z",
+    "url": "https://robocontest.uz/attempts/2545867",
+    "file": "R004A_Diagonallar_soni.py"
+  },
+  {
+    "attempt_id": 2545856,
+    "task_number": "A0009",
+    "task_title": "Niqob - №2",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T04:33:50.000000Z",
+    "url": "https://robocontest.uz/attempts/2545856",
+    "file": "A0009_Niqob_-_№2.py"
+  },
+  {
+    "attempt_id": 2545850,
+    "task_number": "A0008",
+    "task_title": "Niqob - №1",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T04:33:06.000000Z",
+    "url": "https://robocontest.uz/attempts/2545850",
+    "file": "A0008_Niqob_-_№1.py"
+  },
+  {
+    "attempt_id": 2545843,
+    "task_number": "A0005",
+    "task_title": "Yangi yil sovg'asi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-08T04:30:49.000000Z",
+    "url": "https://robocontest.uz/attempts/2545843",
+    "file": "A0005_Yangi_yil_sovg'asi.py"
+  },
+  {
+    "attempt_id": 2544311,
+    "task_number": "M011C",
+    "task_title": "Oxirgi raqam",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-07T10:29:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2544311",
+    "file": "M011C_Oxirgi_raqam.py"
+  },
+  {
+    "attempt_id": 2544307,
+    "task_number": "A0011",
+    "task_title": "Ikki xonali sonning birinchi raqami",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-07T10:28:18.000000Z",
+    "url": "https://robocontest.uz/attempts/2544307",
+    "file": "A0011_Ikki_xonali_sonning_birinchi_raqami.py"
+  },
+  {
+    "attempt_id": 2544166,
+    "task_number": "0SAEOUIAFU",
+    "task_title": "cin 2.22",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-07T10:01:49.000000Z",
+    "url": "https://robocontest.uz/attempts/2544166",
+    "file": "0SAEOUIAFU_cin_2.22.py"
+  },
+  {
+    "attempt_id": 2543840,
+    "task_number": "M054K",
+    "task_title": "Sanash vaqti",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-07T08:48:19.000000Z",
+    "url": "https://robocontest.uz/attempts/2543840",
+    "file": "M054K_Sanash_vaqti.py"
+  },
+  {
+    "attempt_id": 2543776,
+    "task_number": "M033A",
+    "task_title": "Asilbek yo`qotgan son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-07T08:31:54.000000Z",
+    "url": "https://robocontest.uz/attempts/2543776",
+    "file": "M033A_Asilbek_yo`qotgan_son.py"
+  },
+  {
+    "attempt_id": 2540070,
+    "task_number": "0945",
+    "task_title": "To'rtburchak",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:45:00.000000Z",
+    "url": "https://robocontest.uz/attempts/2540070",
+    "file": "0945_To'rtburchak.py"
+  },
+  {
+    "attempt_id": 2540057,
+    "task_number": "0815",
+    "task_title": "Dasturchilik talablari",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:43:21.000000Z",
+    "url": "https://robocontest.uz/attempts/2540057",
+    "file": "0815_Dasturchilik_talablari.py"
+  },
+  {
+    "attempt_id": 2540052,
+    "task_number": "M019G",
+    "task_title": "Jismoniy tarbiya",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:42:27.000000Z",
+    "url": "https://robocontest.uz/attempts/2540052",
+    "file": "M019G_Jismoniy_tarbiya.py"
+  },
+  {
+    "attempt_id": 2540048,
+    "task_number": "0530",
+    "task_title": "Aylanalar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:42:01.000000Z",
+    "url": "https://robocontest.uz/attempts/2540048",
+    "file": "0530_Aylanalar.py"
+  },
+  {
+    "attempt_id": 2540043,
+    "task_number": "R047B",
+    "task_title": "Eng katta son",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:41:32.000000Z",
+    "url": "https://robocontest.uz/attempts/2540043",
+    "file": "R047B_Eng_katta_son.py"
+  },
+  {
+    "attempt_id": 2540041,
+    "task_number": "R005B",
+    "task_title": "Kvadrat sonlar",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:40:50.000000Z",
+    "url": "https://robocontest.uz/attempts/2540041",
+    "file": "R005B_Kvadrat_sonlar.py"
+  },
+  {
+    "attempt_id": 2540029,
+    "task_number": "R002A",
+    "task_title": "O'rin almashtirish",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:38:27.000000Z",
+    "url": "https://robocontest.uz/attempts/2540029",
+    "file": "R002A_O'rin_almashtirish.py"
+  },
+  {
+    "attempt_id": 2540025,
+    "task_number": "M047B",
+    "task_title": "Juft karrali",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:37:25.000000Z",
+    "url": "https://robocontest.uz/attempts/2540025",
+    "file": "M047B_Juft_karrali.py"
+  },
+  {
+    "attempt_id": 2540022,
+    "task_number": "M047C",
+    "task_title": "Taqqoslash",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:35:55.000000Z",
+    "url": "https://robocontest.uz/attempts/2540022",
+    "file": "M047C_Taqqoslash.py"
+  },
+  {
+    "attempt_id": 2540012,
+    "task_number": "R059E",
+    "task_title": "Ajoyib o'yin",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:32:33.000000Z",
+    "url": "https://robocontest.uz/attempts/2540012",
+    "file": "R059E_Ajoyib_o'yin.py"
+  },
+  {
+    "attempt_id": 2540006,
+    "task_number": "M011A",
+    "task_title": "Direktor tashrifi",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:30:20.000000Z",
+    "url": "https://robocontest.uz/attempts/2540006",
+    "file": "M011A_Direktor_tashrifi.py"
+  },
+  {
+    "attempt_id": 2539998,
+    "task_number": "M106B",
+    "task_title": "Katta-kichik",
+    "language": "python3",
+    "status": "Accepted",
+    "created_at": "2023-09-05T11:29:04.000000Z",
+    "url": "https://robocontest.uz/attempts/2539998",
+    "file": "M106B_Katta-kichik.py"
+  }
+]

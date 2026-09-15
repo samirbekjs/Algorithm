@@ -1,0 +1,5 @@
+n=int(input())
+if (n/100)%1==0 :
+  print(n//100)
+else:
+  print(n/100)
